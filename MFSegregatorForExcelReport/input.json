@@ -1,0 +1,6920 @@
+{
+  "status": "success",
+  "client_details": {
+    "kc": {
+      "user_id": "MI2273",
+      "meta": {
+        "demat_consent": "physical"
+      },
+      "broker": "ZERODHA",
+      "user_type": "individual",
+      "user_shortname": "Gopi",
+      "avatar_url": null,
+      "products": [
+        "CNC",
+        "NRML",
+        "MIS",
+        "BO",
+        "CO"
+      ],
+      "order_types": [
+        "MARKET",
+        "LIMIT",
+        "SL",
+        "SL-M"
+      ],
+      "exchanges": [
+        "NFO",
+        "NSE",
+        "MF",
+        "BFO",
+        "CDS",
+        "BSE"
+      ],
+      "user_name": "Gopi Hemanth",
+      "email": "hemanthreddyvutla@gmail.com"
+    },
+    "equity_balance": "47667.7",
+    "name": "Gopi Hemanth",
+    "client_id": "MI2273"
+  },
+  "data": {
+    "pending_orders": [],
+    "portfolio": [
+      {
+        "amc_code": "TATAMutualFund_MF",
+        "folio_number": "4839791/72",
+        "bse_scheme_code": "TADIFGZ-GR",
+        "scheme_name": "Tata Digital India Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 45.891113281250064,
+        "amount": 9000.0065982,
+        "nav": 38.4169,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 5000.0,
+            "folio_number": "4839791/72",
+            "transaction_mode": "P",
+            "allotment_date": "2019-04-01",
+            "order_id": "67604314",
+            "order_type": "NRM",
+            "schema_id": 140513399.002066,
+            "sip_order_flag": false,
+            "amount": 5000.0078717,
+            "bse_scheme_code": "TADIFGZ-GR",
+            "nav": 16.0361,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-03-31 20:01:44",
+            "units": 311.797,
+            "settlement_number": "1920001",
+            "remarks": "",
+            "name": "Tata Digital India Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "4839791/72",
+            "transaction_mode": "P",
+            "allotment_date": "2019-05-02",
+            "order_id": "71908658",
+            "order_type": "NRM",
+            "schema_id": 140513399.002066,
+            "sip_order_flag": false,
+            "amount": 999.9990429,
+            "bse_scheme_code": "TADIFGZ-GR",
+            "nav": 16.3007,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-05-01 04:15:50",
+            "units": 61.347,
+            "settlement_number": "1920020",
+            "remarks": "",
+            "name": "Tata Digital India Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "4839791/72",
+            "transaction_mode": "P",
+            "allotment_date": "2019-06-04",
+            "order_id": "76082853",
+            "order_type": "NRM",
+            "schema_id": 140513399.002066,
+            "sip_order_flag": false,
+            "amount": 999.999792,
+            "bse_scheme_code": "TADIFGZ-GR",
+            "nav": 16.056,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-06-01 04:20:41",
+            "units": 62.282,
+            "settlement_number": "1920043",
+            "remarks": "",
+            "name": "Tata Digital India Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "4839791/72",
+            "transaction_mode": "P",
+            "allotment_date": "2019-07-01",
+            "order_id": "79868160",
+            "order_type": "NRM",
+            "schema_id": 140513399.002066,
+            "sip_order_flag": false,
+            "amount": 1000.003264,
+            "bse_scheme_code": "TADIFGZ-GR",
+            "nav": 16.1083,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-07-01 04:28:25",
+            "units": 62.08,
+            "settlement_number": "1920061",
+            "remarks": "",
+            "name": "Tata Digital India Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "4839791/72",
+            "transaction_mode": "P",
+            "allotment_date": "2019-08-01",
+            "order_id": "84212640",
+            "order_type": "NRM",
+            "schema_id": 140513399.002066,
+            "sip_order_flag": false,
+            "amount": 999.9966276,
+            "bse_scheme_code": "TADIFGZ-GR",
+            "nav": 15.4827,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-08-01 04:33:19",
+            "units": 64.588,
+            "settlement_number": "1920084",
+            "remarks": "",
+            "name": "Tata Digital India Fund - Direct Plan"
+          }
+        ],
+        "net": 21593.9089886,
+        "min_redemp_qty": 50.0,
+        "bse_scheme_code_slug": "TADIFGZ-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T3",
+        "div_reinvestment_flag": "Z",
+        "units": 562.094,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": -0.0211,
+        "buy_avg": 16.01156852448167,
+        "sparkline_data": [
+          {
+            "y": 29.3216,
+            "x": 1621362600000
+          },
+          {
+            "y": 29.2822,
+            "x": 1621449000000
+          },
+          {
+            "y": 29.4355,
+            "x": 1621535400000
+          },
+          {
+            "y": 29.5591,
+            "x": 1621794600000
+          },
+          {
+            "y": 29.8492,
+            "x": 1621881000000
+          },
+          {
+            "y": 30.3341,
+            "x": 1621967400000
+          },
+          {
+            "y": 30.6224,
+            "x": 1622053800000
+          },
+          {
+            "y": 30.5741,
+            "x": 1622140200000
+          },
+          {
+            "y": 30.6651,
+            "x": 1622399400000
+          },
+          {
+            "y": 30.5351,
+            "x": 1622485800000
+          },
+          {
+            "y": 30.4614,
+            "x": 1622572200000
+          },
+          {
+            "y": 30.5162,
+            "x": 1622658600000
+          },
+          {
+            "y": 30.599,
+            "x": 1622745000000
+          },
+          {
+            "y": 30.972,
+            "x": 1623004200000
+          },
+          {
+            "y": 31.4331,
+            "x": 1623090600000
+          },
+          {
+            "y": 31.3626,
+            "x": 1623177000000
+          },
+          {
+            "y": 31.7201,
+            "x": 1623263400000
+          },
+          {
+            "y": 32.0895,
+            "x": 1623349800000
+          },
+          {
+            "y": 32.1528,
+            "x": 1623609000000
+          },
+          {
+            "y": 32.3208,
+            "x": 1623695400000
+          },
+          {
+            "y": 32.4145,
+            "x": 1623781800000
+          },
+          {
+            "y": 32.5438,
+            "x": 1623868200000
+          },
+          {
+            "y": 32.4329,
+            "x": 1623954600000
+          },
+          {
+            "y": 32.4101,
+            "x": 1624213800000
+          },
+          {
+            "y": 32.5462,
+            "x": 1624300200000
+          },
+          {
+            "y": 32.3022,
+            "x": 1624386600000
+          },
+          {
+            "y": 32.8724,
+            "x": 1624473000000
+          },
+          {
+            "y": 33.07,
+            "x": 1624559400000
+          },
+          {
+            "y": 33.0518,
+            "x": 1624818600000
+          },
+          {
+            "y": 33.2312,
+            "x": 1624905000000
+          },
+          {
+            "y": 33.498,
+            "x": 1624991400000
+          },
+          {
+            "y": 33.5566,
+            "x": 1625077800000
+          },
+          {
+            "y": 33.581,
+            "x": 1625164200000
+          },
+          {
+            "y": 33.5654,
+            "x": 1625423400000
+          },
+          {
+            "y": 33.2707,
+            "x": 1625509800000
+          },
+          {
+            "y": 33.2379,
+            "x": 1625596200000
+          },
+          {
+            "y": 33.3633,
+            "x": 1625682600000
+          },
+          {
+            "y": 33.2611,
+            "x": 1625769000000
+          },
+          {
+            "y": 33.2054,
+            "x": 1626028200000
+          },
+          {
+            "y": 33.0512,
+            "x": 1626114600000
+          },
+          {
+            "y": 33.7369,
+            "x": 1626201000000
+          },
+          {
+            "y": 34.5245,
+            "x": 1626287400000
+          },
+          {
+            "y": 34.5352,
+            "x": 1626373800000
+          },
+          {
+            "y": 34.3068,
+            "x": 1626633000000
+          },
+          {
+            "y": 34.1156,
+            "x": 1626719400000
+          },
+          {
+            "y": 34.6731,
+            "x": 1626892200000
+          },
+          {
+            "y": 35.0314,
+            "x": 1626978600000
+          },
+          {
+            "y": 35.1602,
+            "x": 1627237800000
+          },
+          {
+            "y": 35.0454,
+            "x": 1627324200000
+          },
+          {
+            "y": 34.9453,
+            "x": 1627410600000
+          },
+          {
+            "y": 35.4186,
+            "x": 1627497000000
+          },
+          {
+            "y": 35.5533,
+            "x": 1627583400000
+          },
+          {
+            "y": 35.9308,
+            "x": 1627842600000
+          },
+          {
+            "y": 36.1737,
+            "x": 1627929000000
+          },
+          {
+            "y": 36.0038,
+            "x": 1628015400000
+          },
+          {
+            "y": 36.1443,
+            "x": 1628101800000
+          },
+          {
+            "y": 36.2307,
+            "x": 1628188200000
+          },
+          {
+            "y": 36.3947,
+            "x": 1628447400000
+          },
+          {
+            "y": 36.5335,
+            "x": 1628533800000
+          },
+          {
+            "y": 36.3913,
+            "x": 1628620200000
+          },
+          {
+            "y": 37.0703,
+            "x": 1628706600000
+          },
+          {
+            "y": 37.4345,
+            "x": 1628793000000
+          },
+          {
+            "y": 37.3753,
+            "x": 1629052200000
+          },
+          {
+            "y": 38.1263,
+            "x": 1629138600000
+          },
+          {
+            "y": 38.1301,
+            "x": 1629225000000
+          },
+          {
+            "y": 37.8733,
+            "x": 1629397800000
+          },
+          {
+            "y": 38.1599,
+            "x": 1629657000000
+          },
+          {
+            "y": 38.2226,
+            "x": 1629743400000
+          },
+          {
+            "y": 38.425,
+            "x": 1629829800000
+          },
+          {
+            "y": 38.4169,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 9000.0065982,
+        "schema_id": 140513399.002066,
+        "isin": "INF277K01Z77",
+        "prev_nav": 38.425
+      },
+      {
+        "amc_code": "AXISMUTUALFUND_MF",
+        "folio_number": "91041583556",
+        "bse_scheme_code": "TSDG-GR",
+        "scheme_name": "Axis Long Term Equity Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 20.275250077247662,
+        "amount": 14499.8289767,
+        "nav": 78.268,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-04",
+            "order_id": "38349027",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.9924188,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 46.4418,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-03 17:35:34",
+            "units": 10.766,
+            "settlement_number": "1819067",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-10",
+            "order_id": "39176389",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 999.98469,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 47.2806,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-10 05:01:10",
+            "units": 21.15,
+            "settlement_number": "1819071",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-18",
+            "order_id": "39776573",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 999.984157,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 47.2694,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-17 05:01:09",
+            "units": 21.155,
+            "settlement_number": "1819077",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-24",
+            "order_id": "40154371",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.984828,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 48.131,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-24 05:01:19",
+            "units": 10.388,
+            "settlement_number": "1819081",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-31",
+            "order_id": "40675745",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.9957812,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 48.2668,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-31 05:01:34",
+            "units": 10.359,
+            "settlement_number": "1819086",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-07",
+            "order_id": "41342798",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 500.022489,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 48.0329,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-07 05:01:58",
+            "units": 10.41,
+            "settlement_number": "1819091",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-14",
+            "order_id": "42104992",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 500.017884,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 48.162,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-14 05:01:30",
+            "units": 10.382,
+            "settlement_number": "1819096",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-21",
+            "order_id": "42860738",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.9975776,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 48.6048,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-21 05:01:17",
+            "units": 10.287,
+            "settlement_number": "1819100",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-31",
+            "order_id": "43570661",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 500.0213502,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 49.5414,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-28 06:00:47",
+            "units": 10.093,
+            "settlement_number": "1819107",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-04",
+            "order_id": "43904294",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.9767852,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 48.7022,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-04 04:01:07",
+            "units": 10.266,
+            "settlement_number": "1819109",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-12",
+            "order_id": "45069971",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.9995784,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 47.5556,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-11 04:01:06",
+            "units": 10.514,
+            "settlement_number": "1819115",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-18",
+            "order_id": "45674305",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 500.0178139,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 47.3009,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-18 01:31:02",
+            "units": 10.571,
+            "settlement_number": "1819118",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-25",
+            "order_id": "46505753",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 500.0023494,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 45.6957,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-25 01:31:02",
+            "units": 10.942,
+            "settlement_number": "1819122",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-04",
+            "order_id": "47224240",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.9802455,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 42.7151,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-10-02 01:31:04",
+            "units": 11.705,
+            "settlement_number": "1819128",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-09",
+            "order_id": "47750957",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 500.0118417,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 41.9931,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-10-09 01:31:07",
+            "units": 11.907,
+            "settlement_number": "1819131",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-19",
+            "order_id": "49077910",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.9909614,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 42.2254,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-10-16 01:31:00",
+            "units": 11.841,
+            "settlement_number": "1819138",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-11-09",
+            "order_id": "50913453",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.9877751,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 44.1023,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-11-07 01:38:59",
+            "units": 11.337,
+            "settlement_number": "1819151",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-11-22",
+            "order_id": "52606128",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.9907724,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 43.9282,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-11-22 01:37:35",
+            "units": 11.382,
+            "settlement_number": "1819160",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-12-07",
+            "order_id": "54093237",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.978641,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 44.813,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-12-07 01:37:24",
+            "units": 11.157,
+            "settlement_number": "1819170",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2018-12-24",
+            "order_id": "55976498",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.983642,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 45.313,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-12-22 01:34:11",
+            "units": 11.034,
+            "settlement_number": "1819181",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2019-01-21",
+            "order_id": "59217855",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 500.011792,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 44.2645,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-01-21 01:38:06",
+            "units": 11.296,
+            "settlement_number": "1819200",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2019-02-08",
+            "order_id": "60932993",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 499.988822,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 44.8823,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-02-05 01:39:10",
+            "units": 11.14,
+            "settlement_number": "1819214",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2019-02-20",
+            "order_id": "62702596",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 500.0196546,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 43.6851,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-02-20 01:39:40",
+            "units": 11.446,
+            "settlement_number": "1819222",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1999.9,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2021-03-18",
+            "order_id": "215859018",
+            "order_type": "NRM",
+            "schema_id": 14057660.002066,
+            "sip_order_flag": false,
+            "amount": 1999.8871263,
+            "bse_scheme_code": "TSDG-GR",
+            "nav": 66.2719,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2021-03-17 14:34:28",
+            "units": 30.177,
+            "settlement_number": "2021240",
+            "remarks": "",
+            "name": "Axis Long Term Equity Fund - Direct Plan"
+          }
+        ],
+        "net": 23613.84694,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "TSDG-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T3",
+        "div_reinvestment_flag": "Z",
+        "units": 301.705,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": 0.3656,
+        "buy_avg": 48.05962439038133,
+        "sparkline_data": [
+          {
+            "y": 68.4275,
+            "x": 1621362600000
+          },
+          {
+            "y": 68.1195,
+            "x": 1621449000000
+          },
+          {
+            "y": 69.0525,
+            "x": 1621535400000
+          },
+          {
+            "y": 69.0821,
+            "x": 1621794600000
+          },
+          {
+            "y": 69.3104,
+            "x": 1621881000000
+          },
+          {
+            "y": 69.8961,
+            "x": 1621967400000
+          },
+          {
+            "y": 70.0134,
+            "x": 1622053800000
+          },
+          {
+            "y": 69.8483,
+            "x": 1622140200000
+          },
+          {
+            "y": 70.2453,
+            "x": 1622399400000
+          },
+          {
+            "y": 70.3808,
+            "x": 1622485800000
+          },
+          {
+            "y": 70.9471,
+            "x": 1622572200000
+          },
+          {
+            "y": 71.495,
+            "x": 1622658600000
+          },
+          {
+            "y": 71.582,
+            "x": 1622745000000
+          },
+          {
+            "y": 71.6821,
+            "x": 1623004200000
+          },
+          {
+            "y": 71.682,
+            "x": 1623090600000
+          },
+          {
+            "y": 71.4079,
+            "x": 1623177000000
+          },
+          {
+            "y": 72.3612,
+            "x": 1623263400000
+          },
+          {
+            "y": 72.2529,
+            "x": 1623349800000
+          },
+          {
+            "y": 72.4523,
+            "x": 1623609000000
+          },
+          {
+            "y": 72.8587,
+            "x": 1623695400000
+          },
+          {
+            "y": 72.6385,
+            "x": 1623781800000
+          },
+          {
+            "y": 72.3683,
+            "x": 1623868200000
+          },
+          {
+            "y": 72.1931,
+            "x": 1623954600000
+          },
+          {
+            "y": 72.3846,
+            "x": 1624213800000
+          },
+          {
+            "y": 72.5265,
+            "x": 1624300200000
+          },
+          {
+            "y": 72.1387,
+            "x": 1624386600000
+          },
+          {
+            "y": 72.5226,
+            "x": 1624473000000
+          },
+          {
+            "y": 72.8784,
+            "x": 1624559400000
+          },
+          {
+            "y": 72.8531,
+            "x": 1624818600000
+          },
+          {
+            "y": 72.726,
+            "x": 1624905000000
+          },
+          {
+            "y": 72.8723,
+            "x": 1624991400000
+          },
+          {
+            "y": 73.1256,
+            "x": 1625077800000
+          },
+          {
+            "y": 73.4383,
+            "x": 1625164200000
+          },
+          {
+            "y": 74.02,
+            "x": 1625423400000
+          },
+          {
+            "y": 73.9922,
+            "x": 1625509800000
+          },
+          {
+            "y": 74.2331,
+            "x": 1625596200000
+          },
+          {
+            "y": 73.9363,
+            "x": 1625682600000
+          },
+          {
+            "y": 74.0795,
+            "x": 1625769000000
+          },
+          {
+            "y": 74.0474,
+            "x": 1626028200000
+          },
+          {
+            "y": 74.0438,
+            "x": 1626114600000
+          },
+          {
+            "y": 74.218,
+            "x": 1626201000000
+          },
+          {
+            "y": 74.2924,
+            "x": 1626287400000
+          },
+          {
+            "y": 74.3636,
+            "x": 1626373800000
+          },
+          {
+            "y": 73.9938,
+            "x": 1626633000000
+          },
+          {
+            "y": 73.8128,
+            "x": 1626719400000
+          },
+          {
+            "y": 74.5876,
+            "x": 1626892200000
+          },
+          {
+            "y": 74.5025,
+            "x": 1626978600000
+          },
+          {
+            "y": 74.4544,
+            "x": 1627237800000
+          },
+          {
+            "y": 74.294,
+            "x": 1627324200000
+          },
+          {
+            "y": 74.1284,
+            "x": 1627410600000
+          },
+          {
+            "y": 74.5288,
+            "x": 1627497000000
+          },
+          {
+            "y": 74.2211,
+            "x": 1627583400000
+          },
+          {
+            "y": 75.0437,
+            "x": 1627842600000
+          },
+          {
+            "y": 75.9397,
+            "x": 1627929000000
+          },
+          {
+            "y": 76.021,
+            "x": 1628015400000
+          },
+          {
+            "y": 76.008,
+            "x": 1628101800000
+          },
+          {
+            "y": 75.8131,
+            "x": 1628188200000
+          },
+          {
+            "y": 75.5804,
+            "x": 1628447400000
+          },
+          {
+            "y": 75.5859,
+            "x": 1628533800000
+          },
+          {
+            "y": 75.3045,
+            "x": 1628620200000
+          },
+          {
+            "y": 75.6608,
+            "x": 1628706600000
+          },
+          {
+            "y": 75.9653,
+            "x": 1628793000000
+          },
+          {
+            "y": 76.0397,
+            "x": 1629052200000
+          },
+          {
+            "y": 76.4159,
+            "x": 1629138600000
+          },
+          {
+            "y": 76.6204,
+            "x": 1629225000000
+          },
+          {
+            "y": 76.3521,
+            "x": 1629397800000
+          },
+          {
+            "y": 76.715,
+            "x": 1629657000000
+          },
+          {
+            "y": 77.6842,
+            "x": 1629743400000
+          },
+          {
+            "y": 77.9829,
+            "x": 1629829800000
+          },
+          {
+            "y": 78.268,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 14499.8289767,
+        "schema_id": 14057660.002066,
+        "isin": "INF846K01EW2",
+        "prev_nav": 77.9829
+      },
+      {
+        "amc_code": "BirlaSunLifeMutualFund_MF",
+        "folio_number": "1037568692",
+        "bse_scheme_code": "BS02GZ-GR",
+        "scheme_name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 10.416529774665872,
+        "amount": 20750.07841,
+        "nav": 43.91,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 3000.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-06-28",
+            "order_id": "38012344",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 3000.0025,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.45,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-06-26 13:52:47",
+            "units": 92.45,
+            "settlement_number": "1819063",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 3000.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-02",
+            "order_id": "38258915",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 2999.99616,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.62,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-01 05:12:15",
+            "units": 91.968,
+            "settlement_number": "1819065",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-09",
+            "order_id": "38714925",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 1000.0064,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.96,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-08 05:00:57",
+            "units": 30.34,
+            "settlement_number": "1819070",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-18",
+            "order_id": "39777840",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 1000.01528,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.56,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-15 05:00:46",
+            "units": 30.713,
+            "settlement_number": "1819077",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-23",
+            "order_id": "40115950",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 625.0114,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.93,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-22 05:00:48",
+            "units": 18.98,
+            "settlement_number": "1819080",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-30",
+            "order_id": "40636980",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 625.01516,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 33.77,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-29 05:00:51",
+            "units": 18.508,
+            "settlement_number": "1819085",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-06",
+            "order_id": "41206786",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 625.01415,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 34.07,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-05 05:00:56",
+            "units": 18.345,
+            "settlement_number": "1819090",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-13",
+            "order_id": "42025565",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 625.0051,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 33.94,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-12 05:01:06",
+            "units": 18.415,
+            "settlement_number": "1819095",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-20",
+            "order_id": "42776311",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 624.98408,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 34.37,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-19 05:01:31",
+            "units": 18.184,
+            "settlement_number": "1819099",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-27",
+            "order_id": "43262461",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 625.00194,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 35.02,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-26 05:02:22",
+            "units": 17.847,
+            "settlement_number": "1819103",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-03",
+            "order_id": "43838519",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 624.9859,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 35.42,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-02 04:02:31",
+            "units": 17.645,
+            "settlement_number": "1819108",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-10",
+            "order_id": "44899851",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 625.008,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 34.8,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-09 04:02:24",
+            "units": 17.96,
+            "settlement_number": "1819113",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-17",
+            "order_id": "45620228",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 625.01061,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 34.51,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-16 04:02:24",
+            "units": 18.111,
+            "settlement_number": "1819117",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-24",
+            "order_id": "46193473",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 625.0066,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.74,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-23 01:32:20",
+            "units": 19.09,
+            "settlement_number": "1819121",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-01",
+            "order_id": "47040444",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 625.005,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.3,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-30 01:32:07",
+            "units": 19.35,
+            "settlement_number": "1819126",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-08",
+            "order_id": "47675326",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 624.99525,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 30.25,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-10-07 01:32:06",
+            "units": 20.661,
+            "settlement_number": "1819130",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-19",
+            "order_id": "49077373",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 625.00992,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 30.71,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-10-14 01:32:06",
+            "units": 20.352,
+            "settlement_number": "1819138",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 625.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-22",
+            "order_id": "49393582",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 624.98625,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 30.45,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-10-21 01:31:51",
+            "units": 20.525,
+            "settlement_number": "1819139",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-11-05",
+            "order_id": "50659623",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 500.00524,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 31.01,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-11-05 01:38:05",
+            "units": 16.124,
+            "settlement_number": "1819149",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-11-20",
+            "order_id": "52481192",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 500.00068,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 31.51,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-11-20 01:38:28",
+            "units": 15.868,
+            "settlement_number": "1819158",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-12-05",
+            "order_id": "53906755",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 499.99429,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.09,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-12-05 01:39:14",
+            "units": 15.581,
+            "settlement_number": "1819168",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-12-20",
+            "order_id": "55799250",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 499.98949,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.63,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-12-20 01:38:21",
+            "units": 15.323,
+            "settlement_number": "1819179",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2019-01-04",
+            "order_id": "56994382",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 500.00706,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.13,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-01-04 01:37:26",
+            "units": 15.562,
+            "settlement_number": "1819189",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2019-01-21",
+            "order_id": "59220712",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 500.01065,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 32.29,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-01-19 01:34:20",
+            "units": 15.485,
+            "settlement_number": "1819200",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2019-02-04",
+            "order_id": "60419241",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 500.01315,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 31.85,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-02-03 01:35:18",
+            "units": 15.699,
+            "settlement_number": "1819210",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2019-02-18",
+            "order_id": "62377580",
+            "order_type": "NRM",
+            "schema_id": 14057755.002066,
+            "sip_order_flag": false,
+            "amount": 499.99815,
+            "bse_scheme_code": "BS02GZ-GR",
+            "nav": 31.05,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-02-18 01:39:07",
+            "units": 16.103,
+            "settlement_number": "1819220",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          }
+        ],
+        "net": 27891.148989999998,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "BS02GZ-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T3",
+        "div_reinvestment_flag": "Z",
+        "units": 635.189,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": 0.0912,
+        "buy_avg": 32.66756573240406,
+        "sparkline_data": [
+          {
+            "y": 41.27,
+            "x": 1621362600000
+          },
+          {
+            "y": 41.1,
+            "x": 1621449000000
+          },
+          {
+            "y": 41.65,
+            "x": 1621535400000
+          },
+          {
+            "y": 41.74,
+            "x": 1621794600000
+          },
+          {
+            "y": 41.77,
+            "x": 1621881000000
+          },
+          {
+            "y": 42.11,
+            "x": 1621967400000
+          },
+          {
+            "y": 42.14,
+            "x": 1622053800000
+          },
+          {
+            "y": 42.36,
+            "x": 1622140200000
+          },
+          {
+            "y": 42.69,
+            "x": 1622399400000
+          },
+          {
+            "y": 42.51,
+            "x": 1622485800000
+          },
+          {
+            "y": 42.8,
+            "x": 1622572200000
+          },
+          {
+            "y": 43.09,
+            "x": 1622658600000
+          },
+          {
+            "y": 43.04,
+            "x": 1622745000000
+          },
+          {
+            "y": 43.34,
+            "x": 1623004200000
+          },
+          {
+            "y": 43.4,
+            "x": 1623090600000
+          },
+          {
+            "y": 43.1,
+            "x": 1623177000000
+          },
+          {
+            "y": 43.49,
+            "x": 1623263400000
+          },
+          {
+            "y": 43.52,
+            "x": 1623349800000
+          },
+          {
+            "y": 43.58,
+            "x": 1623609000000
+          },
+          {
+            "y": 43.73,
+            "x": 1623695400000
+          },
+          {
+            "y": 43.37,
+            "x": 1623781800000
+          },
+          {
+            "y": 43.21,
+            "x": 1623868200000
+          },
+          {
+            "y": 43.09,
+            "x": 1623954600000
+          },
+          {
+            "y": 43.28,
+            "x": 1624213800000
+          },
+          {
+            "y": 43.33,
+            "x": 1624300200000
+          },
+          {
+            "y": 43.17,
+            "x": 1624386600000
+          },
+          {
+            "y": 43.15,
+            "x": 1624473000000
+          },
+          {
+            "y": 43.34,
+            "x": 1624559400000
+          },
+          {
+            "y": 43.24,
+            "x": 1624818600000
+          },
+          {
+            "y": 43.12,
+            "x": 1624905000000
+          },
+          {
+            "y": 43.17,
+            "x": 1624991400000
+          },
+          {
+            "y": 43.11,
+            "x": 1625077800000
+          },
+          {
+            "y": 43.22,
+            "x": 1625164200000
+          },
+          {
+            "y": 43.41,
+            "x": 1625423400000
+          },
+          {
+            "y": 43.48,
+            "x": 1625509800000
+          },
+          {
+            "y": 43.51,
+            "x": 1625596200000
+          },
+          {
+            "y": 43.22,
+            "x": 1625682600000
+          },
+          {
+            "y": 43.1,
+            "x": 1625769000000
+          },
+          {
+            "y": 43.27,
+            "x": 1626028200000
+          },
+          {
+            "y": 43.68,
+            "x": 1626114600000
+          },
+          {
+            "y": 43.96,
+            "x": 1626201000000
+          },
+          {
+            "y": 43.93,
+            "x": 1626287400000
+          },
+          {
+            "y": 44.17,
+            "x": 1626373800000
+          },
+          {
+            "y": 44.03,
+            "x": 1626633000000
+          },
+          {
+            "y": 43.58,
+            "x": 1626719400000
+          },
+          {
+            "y": 44.05,
+            "x": 1626892200000
+          },
+          {
+            "y": 43.99,
+            "x": 1626978600000
+          },
+          {
+            "y": 44.06,
+            "x": 1627237800000
+          },
+          {
+            "y": 43.92,
+            "x": 1627324200000
+          },
+          {
+            "y": 43.75,
+            "x": 1627410600000
+          },
+          {
+            "y": 43.8,
+            "x": 1627497000000
+          },
+          {
+            "y": 43.9,
+            "x": 1627583400000
+          },
+          {
+            "y": 44.18,
+            "x": 1627842600000
+          },
+          {
+            "y": 44.69,
+            "x": 1627929000000
+          },
+          {
+            "y": 44.89,
+            "x": 1628015400000
+          },
+          {
+            "y": 44.66,
+            "x": 1628101800000
+          },
+          {
+            "y": 44.39,
+            "x": 1628188200000
+          },
+          {
+            "y": 44.27,
+            "x": 1628447400000
+          },
+          {
+            "y": 44.21,
+            "x": 1628533800000
+          },
+          {
+            "y": 43.85,
+            "x": 1628620200000
+          },
+          {
+            "y": 44.18,
+            "x": 1628706600000
+          },
+          {
+            "y": 44.49,
+            "x": 1628793000000
+          },
+          {
+            "y": 44.44,
+            "x": 1629052200000
+          },
+          {
+            "y": 44.37,
+            "x": 1629138600000
+          },
+          {
+            "y": 44.44,
+            "x": 1629225000000
+          },
+          {
+            "y": 43.9,
+            "x": 1629397800000
+          },
+          {
+            "y": 43.56,
+            "x": 1629657000000
+          },
+          {
+            "y": 43.98,
+            "x": 1629743400000
+          },
+          {
+            "y": 43.87,
+            "x": 1629829800000
+          },
+          {
+            "y": 43.91,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 20750.07841,
+        "schema_id": 14057755.002066,
+        "isin": "INF209K01UN8",
+        "prev_nav": 43.87
+      },
+      {
+        "amc_code": "IDFCMUTUALFUND_MF",
+        "folio_number": "2423168/64",
+        "bse_scheme_code": "D223-GR",
+        "scheme_name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 18.965365290641813,
+        "amount": 13500.0410593,
+        "nav": 96.27,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-04",
+            "order_id": "38350147",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.9857923,
+            "bse_scheme_code": "D223-GR",
+            "nav": 59.4019,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-02 21:43:15",
+            "units": 8.417,
+            "settlement_number": "1819067",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-09",
+            "order_id": "38708414",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 1000.021447,
+            "bse_scheme_code": "D223-GR",
+            "nav": 59.7206,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-09 05:00:56",
+            "units": 16.745,
+            "settlement_number": "1819070",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-18",
+            "order_id": "39778954",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 999.98959,
+            "bse_scheme_code": "D223-GR",
+            "nav": 58.21,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-16 05:00:46",
+            "units": 17.179,
+            "settlement_number": "1819077",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-23",
+            "order_id": "40107664",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.99357,
+            "bse_scheme_code": "D223-GR",
+            "nav": 58.39,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-23 05:00:44",
+            "units": 8.563,
+            "settlement_number": "1819080",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-30",
+            "order_id": "40638151",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.972,
+            "bse_scheme_code": "D223-GR",
+            "nav": 60.5,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-30 05:00:58",
+            "units": 8.264,
+            "settlement_number": "1819085",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-06",
+            "order_id": "41186931",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.99788,
+            "bse_scheme_code": "D223-GR",
+            "nav": 61.02,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-06 05:01:23",
+            "units": 8.194,
+            "settlement_number": "1819090",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-13",
+            "order_id": "42031135",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.0292,
+            "bse_scheme_code": "D223-GR",
+            "nav": 60.39,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-13 05:01:22",
+            "units": 8.28,
+            "settlement_number": "1819095",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-20",
+            "order_id": "42783739",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.00328,
+            "bse_scheme_code": "D223-GR",
+            "nav": 61.32,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-20 05:01:04",
+            "units": 8.154,
+            "settlement_number": "1819099",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-08-27",
+            "order_id": "43261117",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.01805,
+            "bse_scheme_code": "D223-GR",
+            "nav": 62.23,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-08-27 05:00:53",
+            "units": 8.035,
+            "settlement_number": "1819103",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-03",
+            "order_id": "43827097",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.0,
+            "bse_scheme_code": "D223-GR",
+            "nav": 62.5,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-03 04:00:44",
+            "units": 8.0,
+            "settlement_number": "1819108",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-10",
+            "order_id": "44906940",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.98109,
+            "bse_scheme_code": "D223-GR",
+            "nav": 61.81,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-10 04:00:41",
+            "units": 8.089,
+            "settlement_number": "1819113",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-17",
+            "order_id": "45600300",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.0025,
+            "bse_scheme_code": "D223-GR",
+            "nav": 61.35,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-17 04:00:50",
+            "units": 8.15,
+            "settlement_number": "1819117",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-09-25",
+            "order_id": "46511880",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.9995,
+            "bse_scheme_code": "D223-GR",
+            "nav": 58.5,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-09-24 01:30:44",
+            "units": 8.547,
+            "settlement_number": "1819122",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-01",
+            "order_id": "47063255",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.02848,
+            "bse_scheme_code": "D223-GR",
+            "nav": 57.12,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-10-01 01:30:41",
+            "units": 8.754,
+            "settlement_number": "1819126",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-08",
+            "order_id": "47684583",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.018,
+            "bse_scheme_code": "D223-GR",
+            "nav": 53.65,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-10-08 01:30:41",
+            "units": 9.32,
+            "settlement_number": "1819130",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-19",
+            "order_id": "49077400",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.02491,
+            "bse_scheme_code": "D223-GR",
+            "nav": 54.57,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-10-15 01:30:49",
+            "units": 9.163,
+            "settlement_number": "1819138",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-10-22",
+            "order_id": "49398498",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.97808,
+            "bse_scheme_code": "D223-GR",
+            "nav": 53.97,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-10-22 01:30:44",
+            "units": 9.264,
+            "settlement_number": "1819139",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-11-06",
+            "order_id": "50726552",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.02534,
+            "bse_scheme_code": "D223-GR",
+            "nav": 56.17,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-11-06 01:37:51",
+            "units": 8.902,
+            "settlement_number": "1819150",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-11-21",
+            "order_id": "52559398",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.99746,
+            "bse_scheme_code": "D223-GR",
+            "nav": 56.58,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-11-21 01:39:15",
+            "units": 8.837,
+            "settlement_number": "1819159",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-12-06",
+            "order_id": "53956207",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.97805,
+            "bse_scheme_code": "D223-GR",
+            "nav": 55.77,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-12-06 01:37:40",
+            "units": 8.965,
+            "settlement_number": "1819169",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2018-12-21",
+            "order_id": "55888537",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.01217,
+            "bse_scheme_code": "D223-GR",
+            "nav": 57.19,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-12-21 01:36:48",
+            "units": 8.743,
+            "settlement_number": "1819180",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2019-01-07",
+            "order_id": "57389710",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.98322,
+            "bse_scheme_code": "D223-GR",
+            "nav": 56.54,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-01-05 01:33:51",
+            "units": 8.843,
+            "settlement_number": "1819190",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2019-01-21",
+            "order_id": "59229545",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.99355,
+            "bse_scheme_code": "D223-GR",
+            "nav": 56.35,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-01-20 01:35:32",
+            "units": 8.873,
+            "settlement_number": "1819200",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2019-02-04",
+            "order_id": "60409167",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 499.99265,
+            "bse_scheme_code": "D223-GR",
+            "nav": 55.45,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-02-04 01:40:21",
+            "units": 9.017,
+            "settlement_number": "1819210",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "2423168/64",
+            "transaction_mode": "P",
+            "allotment_date": "2019-02-20",
+            "order_id": "62705689",
+            "order_type": "NRM",
+            "schema_id": 14058216.002066,
+            "sip_order_flag": false,
+            "amount": 500.01525,
+            "bse_scheme_code": "D223-GR",
+            "nav": 53.91,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-02-19 01:41:17",
+            "units": 9.275,
+            "settlement_number": "1819222",
+            "remarks": "",
+            "name": "IDFC Tax Advantage (ELSS) Fund - Direct Plan"
+          }
+        ],
+        "net": 22389.80271,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "D223-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T3",
+        "div_reinvestment_flag": "Z",
+        "units": 232.573,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": 0.1352,
+        "buy_avg": 58.04646738572405,
+        "sparkline_data": [
+          {
+            "y": 88.45,
+            "x": 1621362600000
+          },
+          {
+            "y": 88.29,
+            "x": 1621449000000
+          },
+          {
+            "y": 89.47,
+            "x": 1621535400000
+          },
+          {
+            "y": 89.98,
+            "x": 1621794600000
+          },
+          {
+            "y": 90.25,
+            "x": 1621881000000
+          },
+          {
+            "y": 90.38,
+            "x": 1621967400000
+          },
+          {
+            "y": 90.91,
+            "x": 1622053800000
+          },
+          {
+            "y": 90.92,
+            "x": 1622140200000
+          },
+          {
+            "y": 91.44,
+            "x": 1622399400000
+          },
+          {
+            "y": 90.6,
+            "x": 1622485800000
+          },
+          {
+            "y": 91.24,
+            "x": 1622572200000
+          },
+          {
+            "y": 91.86,
+            "x": 1622658600000
+          },
+          {
+            "y": 92.11,
+            "x": 1622745000000
+          },
+          {
+            "y": 92.84,
+            "x": 1623004200000
+          },
+          {
+            "y": 93.09,
+            "x": 1623090600000
+          },
+          {
+            "y": 92.13,
+            "x": 1623177000000
+          },
+          {
+            "y": 93.24,
+            "x": 1623263400000
+          },
+          {
+            "y": 93.89,
+            "x": 1623349800000
+          },
+          {
+            "y": 93.71,
+            "x": 1623609000000
+          },
+          {
+            "y": 94.16,
+            "x": 1623695400000
+          },
+          {
+            "y": 93.7,
+            "x": 1623781800000
+          },
+          {
+            "y": 92.89,
+            "x": 1623868200000
+          },
+          {
+            "y": 92.17,
+            "x": 1623954600000
+          },
+          {
+            "y": 92.32,
+            "x": 1624213800000
+          },
+          {
+            "y": 92.99,
+            "x": 1624300200000
+          },
+          {
+            "y": 92.71,
+            "x": 1624386600000
+          },
+          {
+            "y": 93.08,
+            "x": 1624473000000
+          },
+          {
+            "y": 94.01,
+            "x": 1624559400000
+          },
+          {
+            "y": 94.21,
+            "x": 1624818600000
+          },
+          {
+            "y": 93.88,
+            "x": 1624905000000
+          },
+          {
+            "y": 94.09,
+            "x": 1624991400000
+          },
+          {
+            "y": 94.33,
+            "x": 1625077800000
+          },
+          {
+            "y": 94.99,
+            "x": 1625164200000
+          },
+          {
+            "y": 95.55,
+            "x": 1625423400000
+          },
+          {
+            "y": 94.87,
+            "x": 1625509800000
+          },
+          {
+            "y": 95.39,
+            "x": 1625596200000
+          },
+          {
+            "y": 94.64,
+            "x": 1625682600000
+          },
+          {
+            "y": 94.81,
+            "x": 1625769000000
+          },
+          {
+            "y": 95.25,
+            "x": 1626028200000
+          },
+          {
+            "y": 95.81,
+            "x": 1626114600000
+          },
+          {
+            "y": 95.99,
+            "x": 1626201000000
+          },
+          {
+            "y": 96.62,
+            "x": 1626287400000
+          },
+          {
+            "y": 96.9,
+            "x": 1626373800000
+          },
+          {
+            "y": 96.13,
+            "x": 1626633000000
+          },
+          {
+            "y": 94.6,
+            "x": 1626719400000
+          },
+          {
+            "y": 96.05,
+            "x": 1626892200000
+          },
+          {
+            "y": 96.52,
+            "x": 1626978600000
+          },
+          {
+            "y": 96.63,
+            "x": 1627237800000
+          },
+          {
+            "y": 96.02,
+            "x": 1627324200000
+          },
+          {
+            "y": 95.74,
+            "x": 1627410600000
+          },
+          {
+            "y": 96.71,
+            "x": 1627497000000
+          },
+          {
+            "y": 96.95,
+            "x": 1627583400000
+          },
+          {
+            "y": 97.84,
+            "x": 1627842600000
+          },
+          {
+            "y": 98.81,
+            "x": 1627929000000
+          },
+          {
+            "y": 98.71,
+            "x": 1628015400000
+          },
+          {
+            "y": 98.55,
+            "x": 1628101800000
+          },
+          {
+            "y": 98.27,
+            "x": 1628188200000
+          },
+          {
+            "y": 98.08,
+            "x": 1628447400000
+          },
+          {
+            "y": 97.1,
+            "x": 1628533800000
+          },
+          {
+            "y": 97.04,
+            "x": 1628620200000
+          },
+          {
+            "y": 98.13,
+            "x": 1628706600000
+          },
+          {
+            "y": 98.49,
+            "x": 1628793000000
+          },
+          {
+            "y": 98.17,
+            "x": 1629052200000
+          },
+          {
+            "y": 98.39,
+            "x": 1629138600000
+          },
+          {
+            "y": 98.16,
+            "x": 1629225000000
+          },
+          {
+            "y": 96.05,
+            "x": 1629397800000
+          },
+          {
+            "y": 94.84,
+            "x": 1629657000000
+          },
+          {
+            "y": 96.02,
+            "x": 1629743400000
+          },
+          {
+            "y": 96.14,
+            "x": 1629829800000
+          },
+          {
+            "y": 96.27,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 13500.0410593,
+        "schema_id": 14058216.002066,
+        "isin": "INF194K01Y29",
+        "prev_nav": 96.14
+      },
+      {
+        "amc_code": "L&TMUTUALFUND_MF",
+        "folio_number": "4710422/82",
+        "bse_scheme_code": "LTFTAGD-GR",
+        "scheme_name": "L&T Tax Advantage Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 11.036323308944729,
+        "amount": 4499.969244,
+        "nav": 79.996,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "4710422/82",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-04",
+            "order_id": "38349030",
+            "order_type": "NRM",
+            "schema_id": 14058358.002066,
+            "sip_order_flag": false,
+            "amount": 499.982232,
+            "bse_scheme_code": "LTFTAGD-GR",
+            "nav": 56.842,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-03 17:36:18",
+            "units": 8.796,
+            "settlement_number": "1819067",
+            "remarks": "",
+            "name": "L&T Tax Advantage Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "4710422/82",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-10",
+            "order_id": "39176323",
+            "order_type": "NRM",
+            "schema_id": 14058358.002066,
+            "sip_order_flag": false,
+            "amount": 1000.005618,
+            "bse_scheme_code": "LTFTAGD-GR",
+            "nav": 58.042,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-10 05:01:01",
+            "units": 17.229,
+            "settlement_number": "1819071",
+            "remarks": "",
+            "name": "L&T Tax Advantage Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "4710422/82",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-18",
+            "order_id": "39776571",
+            "order_type": "NRM",
+            "schema_id": 14058358.002066,
+            "sip_order_flag": false,
+            "amount": 1000.01589,
+            "bse_scheme_code": "LTFTAGD-GR",
+            "nav": 56.955,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-17 05:01:01",
+            "units": 17.558,
+            "settlement_number": "1819077",
+            "remarks": "",
+            "name": "L&T Tax Advantage Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "4710422/82",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-25",
+            "order_id": "40393712",
+            "order_type": "NRM",
+            "schema_id": 14058358.002066,
+            "sip_order_flag": false,
+            "amount": 999.981552,
+            "bse_scheme_code": "LTFTAGD-GR",
+            "nav": 57.709,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-24 05:01:11",
+            "units": 17.328,
+            "settlement_number": "1819082",
+            "remarks": "",
+            "name": "L&T Tax Advantage Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "4710422/82",
+            "transaction_mode": "P",
+            "allotment_date": "2018-07-31",
+            "order_id": "40682670",
+            "order_type": "NRM",
+            "schema_id": 14058358.002066,
+            "sip_order_flag": false,
+            "amount": 999.983952,
+            "bse_scheme_code": "LTFTAGD-GR",
+            "nav": 58.878,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2018-07-31 05:01:27",
+            "units": 16.984,
+            "settlement_number": "1819086",
+            "remarks": "",
+            "name": "L&T Tax Advantage Fund - Direct Plan"
+          }
+        ],
+        "net": 6231.288419999999,
+        "min_redemp_qty": 50.0,
+        "bse_scheme_code_slug": "LTFTAGD-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T3",
+        "div_reinvestment_flag": "Z",
+        "units": 77.895,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": -0.0375,
+        "buy_avg": 57.769680261891004,
+        "sparkline_data": [
+          {
+            "y": 73.294,
+            "x": 1621362600000
+          },
+          {
+            "y": 73.023,
+            "x": 1621449000000
+          },
+          {
+            "y": 73.801,
+            "x": 1621535400000
+          },
+          {
+            "y": 73.967,
+            "x": 1621794600000
+          },
+          {
+            "y": 73.945,
+            "x": 1621881000000
+          },
+          {
+            "y": 74.404,
+            "x": 1621967400000
+          },
+          {
+            "y": 74.477,
+            "x": 1622053800000
+          },
+          {
+            "y": 74.386,
+            "x": 1622140200000
+          },
+          {
+            "y": 75.015,
+            "x": 1622399400000
+          },
+          {
+            "y": 74.798,
+            "x": 1622485800000
+          },
+          {
+            "y": 75.229,
+            "x": 1622572200000
+          },
+          {
+            "y": 76.035,
+            "x": 1622658600000
+          },
+          {
+            "y": 75.764,
+            "x": 1622745000000
+          },
+          {
+            "y": 76.293,
+            "x": 1623004200000
+          },
+          {
+            "y": 76.639,
+            "x": 1623090600000
+          },
+          {
+            "y": 75.936,
+            "x": 1623177000000
+          },
+          {
+            "y": 76.661,
+            "x": 1623263400000
+          },
+          {
+            "y": 77.013,
+            "x": 1623349800000
+          },
+          {
+            "y": 77.102,
+            "x": 1623609000000
+          },
+          {
+            "y": 77.38,
+            "x": 1623695400000
+          },
+          {
+            "y": 76.936,
+            "x": 1623781800000
+          },
+          {
+            "y": 76.864,
+            "x": 1623868200000
+          },
+          {
+            "y": 76.485,
+            "x": 1623954600000
+          },
+          {
+            "y": 76.699,
+            "x": 1624213800000
+          },
+          {
+            "y": 76.909,
+            "x": 1624300200000
+          },
+          {
+            "y": 76.9,
+            "x": 1624386600000
+          },
+          {
+            "y": 77.19,
+            "x": 1624473000000
+          },
+          {
+            "y": 77.556,
+            "x": 1624559400000
+          },
+          {
+            "y": 77.429,
+            "x": 1624818600000
+          },
+          {
+            "y": 77.101,
+            "x": 1624905000000
+          },
+          {
+            "y": 77.052,
+            "x": 1624991400000
+          },
+          {
+            "y": 77.018,
+            "x": 1625077800000
+          },
+          {
+            "y": 77.292,
+            "x": 1625164200000
+          },
+          {
+            "y": 77.802,
+            "x": 1625423400000
+          },
+          {
+            "y": 77.939,
+            "x": 1625509800000
+          },
+          {
+            "y": 78.343,
+            "x": 1625596200000
+          },
+          {
+            "y": 78.109,
+            "x": 1625682600000
+          },
+          {
+            "y": 78.275,
+            "x": 1625769000000
+          },
+          {
+            "y": 78.391,
+            "x": 1626028200000
+          },
+          {
+            "y": 78.702,
+            "x": 1626114600000
+          },
+          {
+            "y": 78.979,
+            "x": 1626201000000
+          },
+          {
+            "y": 79.126,
+            "x": 1626287400000
+          },
+          {
+            "y": 79.059,
+            "x": 1626373800000
+          },
+          {
+            "y": 78.401,
+            "x": 1626633000000
+          },
+          {
+            "y": 77.775,
+            "x": 1626719400000
+          },
+          {
+            "y": 78.848,
+            "x": 1626892200000
+          },
+          {
+            "y": 79.022,
+            "x": 1626978600000
+          },
+          {
+            "y": 79.095,
+            "x": 1627237800000
+          },
+          {
+            "y": 78.931,
+            "x": 1627324200000
+          },
+          {
+            "y": 79.042,
+            "x": 1627410600000
+          },
+          {
+            "y": 80.015,
+            "x": 1627497000000
+          },
+          {
+            "y": 79.904,
+            "x": 1627583400000
+          },
+          {
+            "y": 80.619,
+            "x": 1627842600000
+          },
+          {
+            "y": 81.384,
+            "x": 1627929000000
+          },
+          {
+            "y": 81.077,
+            "x": 1628015400000
+          },
+          {
+            "y": 80.874,
+            "x": 1628101800000
+          },
+          {
+            "y": 80.337,
+            "x": 1628188200000
+          },
+          {
+            "y": 80.251,
+            "x": 1628447400000
+          },
+          {
+            "y": 79.735,
+            "x": 1628533800000
+          },
+          {
+            "y": 79.416,
+            "x": 1628620200000
+          },
+          {
+            "y": 80.168,
+            "x": 1628706600000
+          },
+          {
+            "y": 80.57,
+            "x": 1628793000000
+          },
+          {
+            "y": 80.446,
+            "x": 1629052200000
+          },
+          {
+            "y": 80.631,
+            "x": 1629138600000
+          },
+          {
+            "y": 80.616,
+            "x": 1629225000000
+          },
+          {
+            "y": 79.271,
+            "x": 1629397800000
+          },
+          {
+            "y": 78.885,
+            "x": 1629657000000
+          },
+          {
+            "y": 79.613,
+            "x": 1629743400000
+          },
+          {
+            "y": 80.026,
+            "x": 1629829800000
+          },
+          {
+            "y": 79.996,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 4499.969244,
+        "schema_id": 14058358.002066,
+        "isin": "INF917K01GP0",
+        "prev_nav": 80.026
+      },
+      {
+        "amc_code": "NipponIndiaMutualFund_MF",
+        "folio_number": "488218003806",
+        "bse_scheme_code": "SCAG-GR",
+        "scheme_name": "Nippon India Small Cap Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 33.3850240707398,
+        "amount": 2999.9983728,
+        "nav": 81.48,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "488218003806",
+            "transaction_mode": "P",
+            "allotment_date": "2019-05-02",
+            "order_id": "71817013",
+            "order_type": "SIP",
+            "schema_id": 14058095.002066,
+            "sip_order_flag": false,
+            "amount": 1000.009377,
+            "bse_scheme_code": "SCAG-GR",
+            "nav": 42.1678,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-05-02 09:59:37",
+            "units": 23.715,
+            "settlement_number": "1920020",
+            "remarks": "New Purchase with SIP",
+            "name": "Nippon India Small Cap Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "488218003806",
+            "transaction_mode": "P",
+            "allotment_date": "2019-06-03",
+            "order_id": "75893543",
+            "order_type": "SIP",
+            "schema_id": 14058095.002066,
+            "sip_order_flag": false,
+            "amount": 999.992681,
+            "bse_scheme_code": "SCAG-GR",
+            "nav": 43.8401,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-06-03 10:17:18",
+            "units": 22.81,
+            "settlement_number": "1920042",
+            "remarks": "",
+            "name": "Nippon India Small Cap Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "488218003806",
+            "transaction_mode": "P",
+            "allotment_date": "2019-07-01",
+            "order_id": "79781965",
+            "order_type": "SIP",
+            "schema_id": 14058095.002066,
+            "sip_order_flag": false,
+            "amount": 999.9963148,
+            "bse_scheme_code": "SCAG-GR",
+            "nav": 42.2492,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-07-01 10:05:35",
+            "units": 23.669,
+            "settlement_number": "1920061",
+            "remarks": "",
+            "name": "Nippon India Small Cap Fund - Direct Plan"
+          }
+        ],
+        "net": 5719.407120000001,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "SCAG-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T3",
+        "div_reinvestment_flag": "Z",
+        "units": 70.194,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": 0.3781,
+        "buy_avg": 42.738672433541325,
+        "sparkline_data": [
+          {
+            "y": 71.0456,
+            "x": 1621362600000
+          },
+          {
+            "y": 71.2713,
+            "x": 1621449000000
+          },
+          {
+            "y": 71.414,
+            "x": 1621535400000
+          },
+          {
+            "y": 71.918,
+            "x": 1621794600000
+          },
+          {
+            "y": 71.9205,
+            "x": 1621881000000
+          },
+          {
+            "y": 72.3311,
+            "x": 1621967400000
+          },
+          {
+            "y": 72.8879,
+            "x": 1622053800000
+          },
+          {
+            "y": 72.6938,
+            "x": 1622140200000
+          },
+          {
+            "y": 72.9427,
+            "x": 1622399400000
+          },
+          {
+            "y": 72.4304,
+            "x": 1622485800000
+          },
+          {
+            "y": 73.2209,
+            "x": 1622572200000
+          },
+          {
+            "y": 73.944,
+            "x": 1622658600000
+          },
+          {
+            "y": 74.4317,
+            "x": 1622745000000
+          },
+          {
+            "y": 75.3611,
+            "x": 1623004200000
+          },
+          {
+            "y": 76.2031,
+            "x": 1623090600000
+          },
+          {
+            "y": 75.4718,
+            "x": 1623177000000
+          },
+          {
+            "y": 76.4326,
+            "x": 1623263400000
+          },
+          {
+            "y": 76.7007,
+            "x": 1623349800000
+          },
+          {
+            "y": 76.693,
+            "x": 1623609000000
+          },
+          {
+            "y": 76.9729,
+            "x": 1623695400000
+          },
+          {
+            "y": 76.3912,
+            "x": 1623781800000
+          },
+          {
+            "y": 76.1084,
+            "x": 1623868200000
+          },
+          {
+            "y": 75.4514,
+            "x": 1623954600000
+          },
+          {
+            "y": 75.7369,
+            "x": 1624213800000
+          },
+          {
+            "y": 76.2925,
+            "x": 1624300200000
+          },
+          {
+            "y": 76.2857,
+            "x": 1624386600000
+          },
+          {
+            "y": 76.1903,
+            "x": 1624473000000
+          },
+          {
+            "y": 76.6054,
+            "x": 1624559400000
+          },
+          {
+            "y": 76.9156,
+            "x": 1624818600000
+          },
+          {
+            "y": 77.0479,
+            "x": 1624905000000
+          },
+          {
+            "y": 77.818,
+            "x": 1624991400000
+          },
+          {
+            "y": 78.3409,
+            "x": 1625077800000
+          },
+          {
+            "y": 79.258,
+            "x": 1625164200000
+          },
+          {
+            "y": 80.0213,
+            "x": 1625423400000
+          },
+          {
+            "y": 79.6488,
+            "x": 1625509800000
+          },
+          {
+            "y": 80.0073,
+            "x": 1625596200000
+          },
+          {
+            "y": 79.8657,
+            "x": 1625682600000
+          },
+          {
+            "y": 80.1952,
+            "x": 1625769000000
+          },
+          {
+            "y": 80.5995,
+            "x": 1626028200000
+          },
+          {
+            "y": 81.3928,
+            "x": 1626114600000
+          },
+          {
+            "y": 81.6936,
+            "x": 1626201000000
+          },
+          {
+            "y": 82.2027,
+            "x": 1626287400000
+          },
+          {
+            "y": 82.7359,
+            "x": 1626373800000
+          },
+          {
+            "y": 82.5801,
+            "x": 1626633000000
+          },
+          {
+            "y": 81.539,
+            "x": 1626719400000
+          },
+          {
+            "y": 82.6404,
+            "x": 1626892200000
+          },
+          {
+            "y": 82.8264,
+            "x": 1626978600000
+          },
+          {
+            "y": 83.1495,
+            "x": 1627237800000
+          },
+          {
+            "y": 82.9793,
+            "x": 1627324200000
+          },
+          {
+            "y": 82.6451,
+            "x": 1627410600000
+          },
+          {
+            "y": 83.4881,
+            "x": 1627497000000
+          },
+          {
+            "y": 83.7178,
+            "x": 1627583400000
+          },
+          {
+            "y": 84.344,
+            "x": 1627842600000
+          },
+          {
+            "y": 84.7551,
+            "x": 1627929000000
+          },
+          {
+            "y": 83.7065,
+            "x": 1628015400000
+          },
+          {
+            "y": 83.6888,
+            "x": 1628101800000
+          },
+          {
+            "y": 83.6276,
+            "x": 1628188200000
+          },
+          {
+            "y": 83.2741,
+            "x": 1628447400000
+          },
+          {
+            "y": 81.7863,
+            "x": 1628533800000
+          },
+          {
+            "y": 81.4055,
+            "x": 1628620200000
+          },
+          {
+            "y": 83.0268,
+            "x": 1628706600000
+          },
+          {
+            "y": 83.1732,
+            "x": 1628793000000
+          },
+          {
+            "y": 82.6423,
+            "x": 1629052200000
+          },
+          {
+            "y": 82.6083,
+            "x": 1629138600000
+          },
+          {
+            "y": 82.3912,
+            "x": 1629225000000
+          },
+          {
+            "y": 80.8135,
+            "x": 1629397800000
+          },
+          {
+            "y": 79.7998,
+            "x": 1629657000000
+          },
+          {
+            "y": 80.88,
+            "x": 1629743400000
+          },
+          {
+            "y": 81.1731,
+            "x": 1629829800000
+          },
+          {
+            "y": 81.48,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 2999.9983728,
+        "schema_id": 14058095.002066,
+        "isin": "INF204K01K15",
+        "prev_nav": 81.1731
+      },
+      {
+        "amc_code": "KOTAKMAHINDRAMF",
+        "folio_number": "7488129/37",
+        "bse_scheme_code": "KO10D-GR",
+        "scheme_name": "Kotak Bond Short Term Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 6.76833152770997,
+        "amount": 39997.9936623,
+        "nav": 44.663,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 19999.0,
+            "folio_number": "7488129/37",
+            "transaction_mode": "P",
+            "allotment_date": "2020-08-27",
+            "order_id": "157355047",
+            "order_type": "NRM",
+            "schema_id": 14058146.002066,
+            "sip_order_flag": false,
+            "amount": 19999.0110273,
+            "bse_scheme_code": "KO10D-GR",
+            "nav": 42.0157,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-08-26 18:20:38",
+            "units": 475.989,
+            "settlement_number": "2021101",
+            "remarks": "",
+            "name": "Kotak Bond Short Term Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 19999.0,
+            "folio_number": "7488129/37",
+            "transaction_mode": "P",
+            "allotment_date": "2021-03-19",
+            "order_id": "216127105",
+            "order_type": "NRM",
+            "schema_id": 14058146.002066,
+            "sip_order_flag": false,
+            "amount": 19998.982635,
+            "bse_scheme_code": "KO10D-GR",
+            "nav": 43.195,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2021-03-18 19:47:21",
+            "units": 462.993,
+            "settlement_number": "2021241",
+            "remarks": "",
+            "name": "Kotak Bond Short Term Fund - Direct Plan"
+          }
+        ],
+        "net": 41937.753066,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "KO10D-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T1",
+        "div_reinvestment_flag": "Z",
+        "units": 938.982,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": -0.009,
+        "buy_avg": 42.59718893684863,
+        "sparkline_data": [
+          {
+            "y": 43.9509,
+            "x": 1621362600000
+          },
+          {
+            "y": 43.9508,
+            "x": 1621449000000
+          },
+          {
+            "y": 43.9626,
+            "x": 1621535400000
+          },
+          {
+            "y": 43.9825,
+            "x": 1621794600000
+          },
+          {
+            "y": 44.0128,
+            "x": 1621881000000
+          },
+          {
+            "y": 44.0142,
+            "x": 1622053800000
+          },
+          {
+            "y": 44.0142,
+            "x": 1622140200000
+          },
+          {
+            "y": 44.013,
+            "x": 1622399400000
+          },
+          {
+            "y": 44.0084,
+            "x": 1622485800000
+          },
+          {
+            "y": 44.0156,
+            "x": 1622572200000
+          },
+          {
+            "y": 44.037,
+            "x": 1622658600000
+          },
+          {
+            "y": 44.0521,
+            "x": 1622745000000
+          },
+          {
+            "y": 44.0871,
+            "x": 1623004200000
+          },
+          {
+            "y": 44.0961,
+            "x": 1623090600000
+          },
+          {
+            "y": 44.1324,
+            "x": 1623177000000
+          },
+          {
+            "y": 44.1426,
+            "x": 1623263400000
+          },
+          {
+            "y": 44.1731,
+            "x": 1623349800000
+          },
+          {
+            "y": 44.1798,
+            "x": 1623609000000
+          },
+          {
+            "y": 44.1477,
+            "x": 1623695400000
+          },
+          {
+            "y": 44.1166,
+            "x": 1623781800000
+          },
+          {
+            "y": 44.1186,
+            "x": 1623868200000
+          },
+          {
+            "y": 44.1315,
+            "x": 1623954600000
+          },
+          {
+            "y": 44.1526,
+            "x": 1624213800000
+          },
+          {
+            "y": 44.1443,
+            "x": 1624300200000
+          },
+          {
+            "y": 44.1346,
+            "x": 1624386600000
+          },
+          {
+            "y": 44.1485,
+            "x": 1624473000000
+          },
+          {
+            "y": 44.1456,
+            "x": 1624559400000
+          },
+          {
+            "y": 44.1364,
+            "x": 1624818600000
+          },
+          {
+            "y": 44.1279,
+            "x": 1624905000000
+          },
+          {
+            "y": 44.1238,
+            "x": 1624991400000
+          },
+          {
+            "y": 44.1324,
+            "x": 1625077800000
+          },
+          {
+            "y": 44.1282,
+            "x": 1625164200000
+          },
+          {
+            "y": 44.1518,
+            "x": 1625423400000
+          },
+          {
+            "y": 44.1093,
+            "x": 1625509800000
+          },
+          {
+            "y": 44.13,
+            "x": 1625596200000
+          },
+          {
+            "y": 44.1666,
+            "x": 1625682600000
+          },
+          {
+            "y": 44.1803,
+            "x": 1625769000000
+          },
+          {
+            "y": 44.1625,
+            "x": 1626028200000
+          },
+          {
+            "y": 44.1913,
+            "x": 1626114600000
+          },
+          {
+            "y": 44.1958,
+            "x": 1626201000000
+          },
+          {
+            "y": 44.2212,
+            "x": 1626287400000
+          },
+          {
+            "y": 44.2677,
+            "x": 1626373800000
+          },
+          {
+            "y": 44.2832,
+            "x": 1626633000000
+          },
+          {
+            "y": 44.3077,
+            "x": 1626719400000
+          },
+          {
+            "y": 44.3089,
+            "x": 1626892200000
+          },
+          {
+            "y": 44.3171,
+            "x": 1626978600000
+          },
+          {
+            "y": 44.346,
+            "x": 1627237800000
+          },
+          {
+            "y": 44.3678,
+            "x": 1627324200000
+          },
+          {
+            "y": 44.3764,
+            "x": 1627410600000
+          },
+          {
+            "y": 44.3814,
+            "x": 1627497000000
+          },
+          {
+            "y": 44.3759,
+            "x": 1627583400000
+          },
+          {
+            "y": 44.4102,
+            "x": 1627842600000
+          },
+          {
+            "y": 44.4202,
+            "x": 1627929000000
+          },
+          {
+            "y": 44.4343,
+            "x": 1628015400000
+          },
+          {
+            "y": 44.443,
+            "x": 1628101800000
+          },
+          {
+            "y": 44.4131,
+            "x": 1628188200000
+          },
+          {
+            "y": 44.446,
+            "x": 1628447400000
+          },
+          {
+            "y": 44.4599,
+            "x": 1628533800000
+          },
+          {
+            "y": 44.459,
+            "x": 1628620200000
+          },
+          {
+            "y": 44.4793,
+            "x": 1628706600000
+          },
+          {
+            "y": 44.5214,
+            "x": 1628793000000
+          },
+          {
+            "y": 44.563,
+            "x": 1629138600000
+          },
+          {
+            "y": 44.6138,
+            "x": 1629225000000
+          },
+          {
+            "y": 44.6279,
+            "x": 1629397800000
+          },
+          {
+            "y": 44.6544,
+            "x": 1629657000000
+          },
+          {
+            "y": 44.6648,
+            "x": 1629743400000
+          },
+          {
+            "y": 44.667,
+            "x": 1629829800000
+          },
+          {
+            "y": 44.663,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 39997.9936623,
+        "schema_id": 14058146.002066,
+        "isin": "INF174K01JI7",
+        "prev_nav": 44.667
+      },
+      {
+        "amc_code": "AXISMUTUALFUND_MF",
+        "folio_number": "91041583556",
+        "bse_scheme_code": "CFDG-GR",
+        "scheme_name": "Axis Liquid Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 5.062112510204364,
+        "amount": 44998.8016217,
+        "nav": 2315.842,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 39998.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2020-08-25",
+            "order_id": "156947786",
+            "order_type": "NRM",
+            "schema_id": 14057593.002066,
+            "sip_order_flag": false,
+            "amount": 39998.4264939,
+            "bse_scheme_code": "CFDG-GR",
+            "nav": 2241.6873,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-08-24 15:51:45",
+            "units": 17.843,
+            "settlement_number": "2021099",
+            "remarks": "",
+            "name": "Axis Liquid Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 4999.75,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2021-01-19",
+            "order_id": "196191692",
+            "order_type": "NRM",
+            "schema_id": 14057593.002066,
+            "sip_order_flag": false,
+            "amount": 5000.3751278,
+            "bse_scheme_code": "CFDG-GR",
+            "nav": 2269.8026,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2021-01-19 09:14:14",
+            "units": 2.203,
+            "settlement_number": "2021200",
+            "remarks": "",
+            "name": "Axis Liquid Fund - Direct Plan"
+          }
+        ],
+        "net": 46423.368732,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "CFDG-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T1",
+        "div_reinvestment_flag": "Z",
+        "units": 20.046,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": 0.0094,
+        "buy_avg": 2244.7770937693303,
+        "sparkline_data": [
+          {
+            "y": 2294.4982,
+            "x": 1621362600000
+          },
+          {
+            "y": 2294.708,
+            "x": 1621449000000
+          },
+          {
+            "y": 2294.9123,
+            "x": 1621535400000
+          },
+          {
+            "y": 2295.1172,
+            "x": 1621621800000
+          },
+          {
+            "y": 2295.3222,
+            "x": 1621708200000
+          },
+          {
+            "y": 2295.5011,
+            "x": 1621794600000
+          },
+          {
+            "y": 2295.7001,
+            "x": 1621881000000
+          },
+          {
+            "y": 2295.9083,
+            "x": 1621967400000
+          },
+          {
+            "y": 2296.1415,
+            "x": 1622053800000
+          },
+          {
+            "y": 2296.3512,
+            "x": 1622140200000
+          },
+          {
+            "y": 2296.5555,
+            "x": 1622226600000
+          },
+          {
+            "y": 2296.7607,
+            "x": 1622313000000
+          },
+          {
+            "y": 2296.9783,
+            "x": 1622399400000
+          },
+          {
+            "y": 2297.1746,
+            "x": 1622485800000
+          },
+          {
+            "y": 2297.3721,
+            "x": 1622572200000
+          },
+          {
+            "y": 2297.6065,
+            "x": 1622658600000
+          },
+          {
+            "y": 2297.8249,
+            "x": 1622745000000
+          },
+          {
+            "y": 2298.0291,
+            "x": 1622831400000
+          },
+          {
+            "y": 2298.2333,
+            "x": 1622917800000
+          },
+          {
+            "y": 2298.4405,
+            "x": 1623004200000
+          },
+          {
+            "y": 2298.6609,
+            "x": 1623090600000
+          },
+          {
+            "y": 2298.8938,
+            "x": 1623177000000
+          },
+          {
+            "y": 2299.1095,
+            "x": 1623263400000
+          },
+          {
+            "y": 2299.3115,
+            "x": 1623349800000
+          },
+          {
+            "y": 2299.5168,
+            "x": 1623436200000
+          },
+          {
+            "y": 2299.7222,
+            "x": 1623522600000
+          },
+          {
+            "y": 2299.9316,
+            "x": 1623609000000
+          },
+          {
+            "y": 2300.1276,
+            "x": 1623695400000
+          },
+          {
+            "y": 2300.2313,
+            "x": 1623781800000
+          },
+          {
+            "y": 2300.3419,
+            "x": 1623868200000
+          },
+          {
+            "y": 2300.5879,
+            "x": 1623954600000
+          },
+          {
+            "y": 2300.804,
+            "x": 1624041000000
+          },
+          {
+            "y": 2301.0202,
+            "x": 1624127400000
+          },
+          {
+            "y": 2301.3441,
+            "x": 1624213800000
+          },
+          {
+            "y": 2301.6041,
+            "x": 1624300200000
+          },
+          {
+            "y": 2301.7892,
+            "x": 1624386600000
+          },
+          {
+            "y": 2302.0386,
+            "x": 1624473000000
+          },
+          {
+            "y": 2302.2443,
+            "x": 1624559400000
+          },
+          {
+            "y": 2302.4556,
+            "x": 1624645800000
+          },
+          {
+            "y": 2302.6671,
+            "x": 1624732200000
+          },
+          {
+            "y": 2302.9142,
+            "x": 1624818600000
+          },
+          {
+            "y": 2303.1476,
+            "x": 1624905000000
+          },
+          {
+            "y": 2303.347,
+            "x": 1624991400000
+          },
+          {
+            "y": 2303.6478,
+            "x": 1625077800000
+          },
+          {
+            "y": 2303.7729,
+            "x": 1625164200000
+          },
+          {
+            "y": 2303.9778,
+            "x": 1625250600000
+          },
+          {
+            "y": 2304.1832,
+            "x": 1625337000000
+          },
+          {
+            "y": 2304.3706,
+            "x": 1625423400000
+          },
+          {
+            "y": 2304.5283,
+            "x": 1625509800000
+          },
+          {
+            "y": 2304.7761,
+            "x": 1625596200000
+          },
+          {
+            "y": 2304.9992,
+            "x": 1625682600000
+          },
+          {
+            "y": 2305.1882,
+            "x": 1625769000000
+          },
+          {
+            "y": 2305.4119,
+            "x": 1625855400000
+          },
+          {
+            "y": 2305.6356,
+            "x": 1625941800000
+          },
+          {
+            "y": 2305.8712,
+            "x": 1626028200000
+          },
+          {
+            "y": 2306.1194,
+            "x": 1626114600000
+          },
+          {
+            "y": 2306.3734,
+            "x": 1626201000000
+          },
+          {
+            "y": 2306.5794,
+            "x": 1626287400000
+          },
+          {
+            "y": 2306.7748,
+            "x": 1626373800000
+          },
+          {
+            "y": 2306.9843,
+            "x": 1626460200000
+          },
+          {
+            "y": 2307.1937,
+            "x": 1626546600000
+          },
+          {
+            "y": 2307.4147,
+            "x": 1626633000000
+          },
+          {
+            "y": 2307.6376,
+            "x": 1626719400000
+          },
+          {
+            "y": 2307.86,
+            "x": 1626805800000
+          },
+          {
+            "y": 2308.1107,
+            "x": 1626892200000
+          },
+          {
+            "y": 2308.3472,
+            "x": 1626978600000
+          },
+          {
+            "y": 2308.5632,
+            "x": 1627065000000
+          },
+          {
+            "y": 2308.7793,
+            "x": 1627151400000
+          },
+          {
+            "y": 2309.0054,
+            "x": 1627237800000
+          },
+          {
+            "y": 2309.2296,
+            "x": 1627324200000
+          },
+          {
+            "y": 2309.4531,
+            "x": 1627410600000
+          },
+          {
+            "y": 2309.6501,
+            "x": 1627497000000
+          },
+          {
+            "y": 2309.8499,
+            "x": 1627583400000
+          },
+          {
+            "y": 2310.0602,
+            "x": 1627669800000
+          },
+          {
+            "y": 2310.271,
+            "x": 1627756200000
+          },
+          {
+            "y": 2310.4848,
+            "x": 1627842600000
+          },
+          {
+            "y": 2310.6814,
+            "x": 1627929000000
+          },
+          {
+            "y": 2310.8775,
+            "x": 1628015400000
+          },
+          {
+            "y": 2311.1016,
+            "x": 1628101800000
+          },
+          {
+            "y": 2311.3006,
+            "x": 1628188200000
+          },
+          {
+            "y": 2311.5243,
+            "x": 1628274600000
+          },
+          {
+            "y": 2311.7483,
+            "x": 1628361000000
+          },
+          {
+            "y": 2311.981,
+            "x": 1628447400000
+          },
+          {
+            "y": 2312.2377,
+            "x": 1628533800000
+          },
+          {
+            "y": 2312.4714,
+            "x": 1628620200000
+          },
+          {
+            "y": 2312.7743,
+            "x": 1628706600000
+          },
+          {
+            "y": 2313.0205,
+            "x": 1628793000000
+          },
+          {
+            "y": 2313.2226,
+            "x": 1628879400000
+          },
+          {
+            "y": 2313.4245,
+            "x": 1628965800000
+          },
+          {
+            "y": 2313.6261,
+            "x": 1629052200000
+          },
+          {
+            "y": 2313.8651,
+            "x": 1629138600000
+          },
+          {
+            "y": 2314.1324,
+            "x": 1629225000000
+          },
+          {
+            "y": 2314.3339,
+            "x": 1629311400000
+          },
+          {
+            "y": 2314.5637,
+            "x": 1629397800000
+          },
+          {
+            "y": 2314.7626,
+            "x": 1629484200000
+          },
+          {
+            "y": 2314.9618,
+            "x": 1629570600000
+          },
+          {
+            "y": 2315.1701,
+            "x": 1629657000000
+          },
+          {
+            "y": 2315.3856,
+            "x": 1629743400000
+          },
+          {
+            "y": 2315.6233,
+            "x": 1629829800000
+          },
+          {
+            "y": 2315.842,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 44998.8016217,
+        "schema_id": 14057593.002066,
+        "isin": "INF846K01CX4",
+        "prev_nav": 2315.6233
+      },
+      {
+        "amc_code": "FRANKLINTEMPLETON",
+        "folio_number": "21906422",
+        "bse_scheme_code": "FR474-GR",
+        "scheme_name": "Franklin India Liquid Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 3.3215904235839977,
+        "amount": 24000.4691535,
+        "nav": 3133.6247,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 10000.0,
+            "folio_number": "21906422",
+            "transaction_mode": "P",
+            "allotment_date": "2020-08-25",
+            "order_id": "156947793",
+            "order_type": "NRM",
+            "schema_id": 14057956.002066,
+            "sip_order_flag": false,
+            "amount": 9999.6137664,
+            "bse_scheme_code": "FR474-GR",
+            "nav": 3033.8634,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-08-24 15:53:10",
+            "units": 3.296,
+            "settlement_number": "2021099",
+            "remarks": "",
+            "name": "Franklin India Liquid Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 5000.0,
+            "folio_number": "21906422",
+            "transaction_mode": "P",
+            "allotment_date": "2021-01-19",
+            "order_id": "196191691",
+            "order_type": "NRM",
+            "schema_id": 14057956.002066,
+            "sip_order_flag": false,
+            "amount": 5001.0439204,
+            "bse_scheme_code": "FR474-GR",
+            "nav": 3071.8943,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2021-01-19 09:13:54",
+            "units": 1.628,
+            "settlement_number": "2021200",
+            "remarks": "",
+            "name": "Franklin India Liquid Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 4000.0,
+            "folio_number": "21906422",
+            "transaction_mode": "P",
+            "allotment_date": "2021-03-18",
+            "order_id": "215838995",
+            "order_type": "NRM",
+            "schema_id": 14057956.002066,
+            "sip_order_flag": false,
+            "amount": 4001.0995872,
+            "bse_scheme_code": "FR474-GR",
+            "nav": 3087.2682,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2021-03-17 14:33:37",
+            "units": 1.296,
+            "settlement_number": "2021240",
+            "remarks": "",
+            "name": "Franklin India Liquid Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 5000.0,
+            "folio_number": "21906422",
+            "transaction_mode": "P",
+            "allotment_date": "2021-03-19",
+            "order_id": "216072611",
+            "order_type": "NRM",
+            "schema_id": 14057956.002066,
+            "sip_order_flag": false,
+            "amount": 4998.7118795,
+            "bse_scheme_code": "FR474-GR",
+            "nav": 3087.5305,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2021-03-18 19:48:55",
+            "units": 1.619,
+            "settlement_number": "2021241",
+            "remarks": "",
+            "name": "Franklin India Liquid Fund - Direct Plan"
+          }
+        ],
+        "net": 24564.4840233,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "FR474-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T1",
+        "div_reinvestment_flag": "Z",
+        "units": 7.839,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": 0.0098,
+        "buy_avg": 3061.6748505549176,
+        "sparkline_data": [
+          {
+            "y": 3104.9508,
+            "x": 1621362600000
+          },
+          {
+            "y": 3105.2409,
+            "x": 1621449000000
+          },
+          {
+            "y": 3105.512,
+            "x": 1621535400000
+          },
+          {
+            "y": 3105.7889,
+            "x": 1621621800000
+          },
+          {
+            "y": 3106.0663,
+            "x": 1621708200000
+          },
+          {
+            "y": 3106.3041,
+            "x": 1621794600000
+          },
+          {
+            "y": 3106.6132,
+            "x": 1621881000000
+          },
+          {
+            "y": 3106.8885,
+            "x": 1621967400000
+          },
+          {
+            "y": 3107.1769,
+            "x": 1622053800000
+          },
+          {
+            "y": 3107.4661,
+            "x": 1622140200000
+          },
+          {
+            "y": 3107.7412,
+            "x": 1622226600000
+          },
+          {
+            "y": 3108.017,
+            "x": 1622313000000
+          },
+          {
+            "y": 3108.2767,
+            "x": 1622399400000
+          },
+          {
+            "y": 3108.5354,
+            "x": 1622485800000
+          },
+          {
+            "y": 3108.815,
+            "x": 1622572200000
+          },
+          {
+            "y": 3109.1097,
+            "x": 1622658600000
+          },
+          {
+            "y": 3109.4079,
+            "x": 1622745000000
+          },
+          {
+            "y": 3109.687,
+            "x": 1622831400000
+          },
+          {
+            "y": 3109.9665,
+            "x": 1622917800000
+          },
+          {
+            "y": 3110.23,
+            "x": 1623004200000
+          },
+          {
+            "y": 3110.544,
+            "x": 1623090600000
+          },
+          {
+            "y": 3110.8553,
+            "x": 1623177000000
+          },
+          {
+            "y": 3111.1424,
+            "x": 1623263400000
+          },
+          {
+            "y": 3111.4364,
+            "x": 1623349800000
+          },
+          {
+            "y": 3111.7159,
+            "x": 1623436200000
+          },
+          {
+            "y": 3111.9962,
+            "x": 1623522600000
+          },
+          {
+            "y": 3112.2527,
+            "x": 1623609000000
+          },
+          {
+            "y": 3112.5179,
+            "x": 1623695400000
+          },
+          {
+            "y": 3112.6701,
+            "x": 1623781800000
+          },
+          {
+            "y": 3112.8823,
+            "x": 1623868200000
+          },
+          {
+            "y": 3113.1914,
+            "x": 1623954600000
+          },
+          {
+            "y": 3113.4726,
+            "x": 1624041000000
+          },
+          {
+            "y": 3113.7645,
+            "x": 1624127400000
+          },
+          {
+            "y": 3114.1454,
+            "x": 1624213800000
+          },
+          {
+            "y": 3114.4745,
+            "x": 1624300200000
+          },
+          {
+            "y": 3114.7602,
+            "x": 1624386600000
+          },
+          {
+            "y": 3115.0751,
+            "x": 1624473000000
+          },
+          {
+            "y": 3115.3739,
+            "x": 1624559400000
+          },
+          {
+            "y": 3115.6565,
+            "x": 1624645800000
+          },
+          {
+            "y": 3115.939,
+            "x": 1624732200000
+          },
+          {
+            "y": 3116.2899,
+            "x": 1624818600000
+          },
+          {
+            "y": 3116.5962,
+            "x": 1624905000000
+          },
+          {
+            "y": 3116.8692,
+            "x": 1624991400000
+          },
+          {
+            "y": 3117.2613,
+            "x": 1625077800000
+          },
+          {
+            "y": 3117.4491,
+            "x": 1625164200000
+          },
+          {
+            "y": 3117.7319,
+            "x": 1625250600000
+          },
+          {
+            "y": 3118.0144,
+            "x": 1625337000000
+          },
+          {
+            "y": 3118.278,
+            "x": 1625423400000
+          },
+          {
+            "y": 3118.5057,
+            "x": 1625509800000
+          },
+          {
+            "y": 3118.819,
+            "x": 1625596200000
+          },
+          {
+            "y": 3119.1177,
+            "x": 1625682600000
+          },
+          {
+            "y": 3119.3708,
+            "x": 1625769000000
+          },
+          {
+            "y": 3119.6648,
+            "x": 1625855400000
+          },
+          {
+            "y": 3119.9595,
+            "x": 1625941800000
+          },
+          {
+            "y": 3120.2688,
+            "x": 1626028200000
+          },
+          {
+            "y": 3120.5743,
+            "x": 1626114600000
+          },
+          {
+            "y": 3120.9087,
+            "x": 1626201000000
+          },
+          {
+            "y": 3121.1836,
+            "x": 1626287400000
+          },
+          {
+            "y": 3121.5654,
+            "x": 1626373800000
+          },
+          {
+            "y": 3121.8489,
+            "x": 1626460200000
+          },
+          {
+            "y": 3122.1326,
+            "x": 1626546600000
+          },
+          {
+            "y": 3122.4242,
+            "x": 1626633000000
+          },
+          {
+            "y": 3122.7256,
+            "x": 1626719400000
+          },
+          {
+            "y": 3123.0131,
+            "x": 1626805800000
+          },
+          {
+            "y": 3123.3433,
+            "x": 1626892200000
+          },
+          {
+            "y": 3123.6681,
+            "x": 1626978600000
+          },
+          {
+            "y": 3123.9538,
+            "x": 1627065000000
+          },
+          {
+            "y": 3124.2391,
+            "x": 1627151400000
+          },
+          {
+            "y": 3124.5303,
+            "x": 1627237800000
+          },
+          {
+            "y": 3124.8201,
+            "x": 1627324200000
+          },
+          {
+            "y": 3125.1111,
+            "x": 1627410600000
+          },
+          {
+            "y": 3125.3737,
+            "x": 1627497000000
+          },
+          {
+            "y": 3125.6329,
+            "x": 1627583400000
+          },
+          {
+            "y": 3125.9165,
+            "x": 1627669800000
+          },
+          {
+            "y": 3126.1996,
+            "x": 1627756200000
+          },
+          {
+            "y": 3126.4956,
+            "x": 1627842600000
+          },
+          {
+            "y": 3126.763,
+            "x": 1627929000000
+          },
+          {
+            "y": 3127.0149,
+            "x": 1628015400000
+          },
+          {
+            "y": 3127.2958,
+            "x": 1628101800000
+          },
+          {
+            "y": 3127.5801,
+            "x": 1628188200000
+          },
+          {
+            "y": 3127.8666,
+            "x": 1628274600000
+          },
+          {
+            "y": 3128.1535,
+            "x": 1628361000000
+          },
+          {
+            "y": 3128.4599,
+            "x": 1628447400000
+          },
+          {
+            "y": 3128.776,
+            "x": 1628533800000
+          },
+          {
+            "y": 3129.0938,
+            "x": 1628620200000
+          },
+          {
+            "y": 3129.4985,
+            "x": 1628706600000
+          },
+          {
+            "y": 3129.8347,
+            "x": 1628793000000
+          },
+          {
+            "y": 3130.1139,
+            "x": 1628879400000
+          },
+          {
+            "y": 3130.3928,
+            "x": 1628965800000
+          },
+          {
+            "y": 3130.6715,
+            "x": 1629052200000
+          },
+          {
+            "y": 3130.9751,
+            "x": 1629138600000
+          },
+          {
+            "y": 3131.3242,
+            "x": 1629225000000
+          },
+          {
+            "y": 3131.5995,
+            "x": 1629311400000
+          },
+          {
+            "y": 3131.8489,
+            "x": 1629397800000
+          },
+          {
+            "y": 3132.1357,
+            "x": 1629484200000
+          },
+          {
+            "y": 3132.422,
+            "x": 1629570600000
+          },
+          {
+            "y": 3132.7135,
+            "x": 1629657000000
+          },
+          {
+            "y": 3133.0001,
+            "x": 1629743400000
+          },
+          {
+            "y": 3133.317,
+            "x": 1629829800000
+          },
+          {
+            "y": 3133.6247,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 24000.4691535,
+        "schema_id": 14057956.002066,
+        "isin": "INF090I01JV2",
+        "prev_nav": 3133.317
+      },
+      {
+        "amc_code": "SBIMutualFund_MF",
+        "folio_number": "21998066",
+        "bse_scheme_code": "SBD038-GR",
+        "scheme_name": "SBI Magnum Constant Maturity Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 5.313440561294569,
+        "amount": 34998.255044,
+        "nav": 51.8399,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 19999.0,
+            "folio_number": "21998066",
+            "transaction_mode": "P",
+            "allotment_date": "2020-08-27",
+            "order_id": "157359799",
+            "order_type": "NRM",
+            "schema_id": 14058434.002066,
+            "sip_order_flag": false,
+            "amount": 19999.0160552,
+            "bse_scheme_code": "SBD038-GR",
+            "nav": 49.0588,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-08-26 18:14:32",
+            "units": 407.654,
+            "settlement_number": "2021101",
+            "remarks": "",
+            "name": "SBI Magnum Constant Maturity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 9999.5,
+            "folio_number": "21998066",
+            "transaction_mode": "P",
+            "allotment_date": "2021-01-19",
+            "order_id": "196209592",
+            "order_type": "NRM",
+            "schema_id": 14058434.002066,
+            "sip_order_flag": false,
+            "amount": 9999.5015628,
+            "bse_scheme_code": "SBD038-GR",
+            "nav": 51.0572,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2021-01-19 09:13:23",
+            "units": 195.849,
+            "settlement_number": "2021200",
+            "remarks": "",
+            "name": "SBI Magnum Constant Maturity Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 4999.75,
+            "folio_number": "21998066",
+            "transaction_mode": "P",
+            "allotment_date": "2021-03-18",
+            "order_id": "215864619",
+            "order_type": "NRM",
+            "schema_id": 14058434.002066,
+            "sip_order_flag": false,
+            "amount": 4999.737426,
+            "bse_scheme_code": "SBD038-GR",
+            "nav": 49.762,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2021-03-17 14:31:17",
+            "units": 100.473,
+            "settlement_number": "2021240",
+            "remarks": "",
+            "name": "SBI Magnum Constant Maturity Fund - Direct Plan"
+          }
+        ],
+        "net": 36494.0454424,
+        "min_redemp_qty": 1.0,
+        "bse_scheme_code_slug": "SBD038-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T1",
+        "div_reinvestment_flag": "Z",
+        "units": 703.976,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": 0.0226,
+        "buy_avg": 49.715125294044114,
+        "sparkline_data": [
+          {
+            "y": 51.1332,
+            "x": 1621362600000
+          },
+          {
+            "y": 51.1803,
+            "x": 1621449000000
+          },
+          {
+            "y": 51.2933,
+            "x": 1621535400000
+          },
+          {
+            "y": 51.3001,
+            "x": 1621794600000
+          },
+          {
+            "y": 51.3416,
+            "x": 1621881000000
+          },
+          {
+            "y": 51.3028,
+            "x": 1622053800000
+          },
+          {
+            "y": 51.2675,
+            "x": 1622140200000
+          },
+          {
+            "y": 51.1802,
+            "x": 1622399400000
+          },
+          {
+            "y": 51.1733,
+            "x": 1622485800000
+          },
+          {
+            "y": 51.2117,
+            "x": 1622572200000
+          },
+          {
+            "y": 51.2556,
+            "x": 1622658600000
+          },
+          {
+            "y": 51.2125,
+            "x": 1622745000000
+          },
+          {
+            "y": 51.2908,
+            "x": 1623004200000
+          },
+          {
+            "y": 51.3665,
+            "x": 1623090600000
+          },
+          {
+            "y": 51.3801,
+            "x": 1623177000000
+          },
+          {
+            "y": 51.4185,
+            "x": 1623263400000
+          },
+          {
+            "y": 51.4832,
+            "x": 1623349800000
+          },
+          {
+            "y": 51.4801,
+            "x": 1623609000000
+          },
+          {
+            "y": 51.3177,
+            "x": 1623695400000
+          },
+          {
+            "y": 51.2371,
+            "x": 1623781800000
+          },
+          {
+            "y": 51.2037,
+            "x": 1623868200000
+          },
+          {
+            "y": 51.2516,
+            "x": 1623954600000
+          },
+          {
+            "y": 51.2234,
+            "x": 1624213800000
+          },
+          {
+            "y": 51.2195,
+            "x": 1624300200000
+          },
+          {
+            "y": 51.2291,
+            "x": 1624386600000
+          },
+          {
+            "y": 51.2596,
+            "x": 1624473000000
+          },
+          {
+            "y": 51.1478,
+            "x": 1624559400000
+          },
+          {
+            "y": 51.0856,
+            "x": 1624818600000
+          },
+          {
+            "y": 51.1796,
+            "x": 1624905000000
+          },
+          {
+            "y": 51.1853,
+            "x": 1624991400000
+          },
+          {
+            "y": 51.2132,
+            "x": 1625077800000
+          },
+          {
+            "y": 51.1482,
+            "x": 1625164200000
+          },
+          {
+            "y": 51.1774,
+            "x": 1625423400000
+          },
+          {
+            "y": 50.9442,
+            "x": 1625509800000
+          },
+          {
+            "y": 51.0459,
+            "x": 1625596200000
+          },
+          {
+            "y": 51.2312,
+            "x": 1625682600000
+          },
+          {
+            "y": 51.1787,
+            "x": 1625769000000
+          },
+          {
+            "y": 51.1516,
+            "x": 1626028200000
+          },
+          {
+            "y": 51.1913,
+            "x": 1626114600000
+          },
+          {
+            "y": 51.2069,
+            "x": 1626201000000
+          },
+          {
+            "y": 51.2265,
+            "x": 1626287400000
+          },
+          {
+            "y": 51.19,
+            "x": 1626373800000
+          },
+          {
+            "y": 51.2699,
+            "x": 1626633000000
+          },
+          {
+            "y": 51.3325,
+            "x": 1626719400000
+          },
+          {
+            "y": 51.2893,
+            "x": 1626892200000
+          },
+          {
+            "y": 51.2857,
+            "x": 1626978600000
+          },
+          {
+            "y": 51.3324,
+            "x": 1627237800000
+          },
+          {
+            "y": 51.3175,
+            "x": 1627324200000
+          },
+          {
+            "y": 51.3642,
+            "x": 1627410600000
+          },
+          {
+            "y": 51.3683,
+            "x": 1627497000000
+          },
+          {
+            "y": 51.3862,
+            "x": 1627583400000
+          },
+          {
+            "y": 51.4596,
+            "x": 1627842600000
+          },
+          {
+            "y": 51.4679,
+            "x": 1627929000000
+          },
+          {
+            "y": 51.5028,
+            "x": 1628015400000
+          },
+          {
+            "y": 51.522,
+            "x": 1628101800000
+          },
+          {
+            "y": 51.4147,
+            "x": 1628188200000
+          },
+          {
+            "y": 51.4798,
+            "x": 1628447400000
+          },
+          {
+            "y": 51.4668,
+            "x": 1628533800000
+          },
+          {
+            "y": 51.4799,
+            "x": 1628620200000
+          },
+          {
+            "y": 51.4985,
+            "x": 1628706600000
+          },
+          {
+            "y": 51.5337,
+            "x": 1628793000000
+          },
+          {
+            "y": 51.6145,
+            "x": 1629138600000
+          },
+          {
+            "y": 51.6929,
+            "x": 1629225000000
+          },
+          {
+            "y": 51.7255,
+            "x": 1629397800000
+          },
+          {
+            "y": 51.7871,
+            "x": 1629657000000
+          },
+          {
+            "y": 51.7941,
+            "x": 1629743400000
+          },
+          {
+            "y": 51.8282,
+            "x": 1629829800000
+          },
+          {
+            "y": 51.8399,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 34998.255044,
+        "schema_id": 14058434.002066,
+        "isin": "INF200K01SK7",
+        "prev_nav": 51.8282
+      },
+      {
+        "amc_code": "MOTILALOSWAL_MF",
+        "folio_number": "91014125226",
+        "bse_scheme_code": "MOBIGD-GR",
+        "scheme_name": "Motilal Oswal Nifty Bank Index Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 12.39378690719606,
+        "amount": 9000.0004067,
+        "nav": 12.9072,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91014125226",
+            "transaction_mode": "P",
+            "allotment_date": "2019-12-23",
+            "order_id": "105815970",
+            "order_type": "NRM",
+            "schema_id": 140516812.002066,
+            "sip_order_flag": false,
+            "amount": 499.9982715,
+            "bse_scheme_code": "MOBIGD-GR",
+            "nav": 11.8161,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2019-12-22 21:07:36",
+            "units": 42.315,
+            "settlement_number": "1920177",
+            "remarks": "",
+            "name": "Motilal Oswal Nifty Bank Index Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91014125226",
+            "transaction_mode": "P",
+            "allotment_date": "2020-01-06",
+            "order_id": "107860105",
+            "order_type": "NRM",
+            "schema_id": 140516812.002066,
+            "sip_order_flag": false,
+            "amount": 500.0039275,
+            "bse_scheme_code": "MOBIGD-GR",
+            "nav": 11.4065,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-01-06 01:38:03",
+            "units": 43.835,
+            "settlement_number": "1920186",
+            "remarks": "",
+            "name": "Motilal Oswal Nifty Bank Index Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91014125226",
+            "transaction_mode": "P",
+            "allotment_date": "2020-01-21",
+            "order_id": "110965003",
+            "order_type": "NRM",
+            "schema_id": 140516812.002066,
+            "sip_order_flag": false,
+            "amount": 500.0037813,
+            "bse_scheme_code": "MOBIGD-GR",
+            "nav": 11.2911,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-01-21 01:38:14",
+            "units": 44.283,
+            "settlement_number": "1920197",
+            "remarks": "",
+            "name": "Motilal Oswal Nifty Bank Index Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 3000.0,
+            "folio_number": "91014125226",
+            "transaction_mode": "P",
+            "allotment_date": "2020-02-04",
+            "order_id": "112985980",
+            "order_type": "NRM",
+            "schema_id": 140516812.002066,
+            "sip_order_flag": false,
+            "amount": 3000.0005175,
+            "bse_scheme_code": "MOBIGD-GR",
+            "nav": 11.1909,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-02-03 12:49:49",
+            "units": 268.075,
+            "settlement_number": "1920207",
+            "remarks": "",
+            "name": "Motilal Oswal Nifty Bank Index Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 2000.0,
+            "folio_number": "91014125226",
+            "transaction_mode": "P",
+            "allotment_date": "2020-03-04",
+            "order_id": "118905276",
+            "order_type": "NRM",
+            "schema_id": 140516812.002066,
+            "sip_order_flag": false,
+            "amount": 1999.9960008,
+            "bse_scheme_code": "MOBIGD-GR",
+            "nav": 10.4622,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-03-04 13:01:24",
+            "units": 191.164,
+            "settlement_number": "1920227",
+            "remarks": "",
+            "name": "Motilal Oswal Nifty Bank Index Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 500.0,
+            "folio_number": "91014125226",
+            "transaction_mode": "P",
+            "allotment_date": "2020-03-05",
+            "order_id": "119360753",
+            "order_type": "NRM",
+            "schema_id": 140516812.002066,
+            "sip_order_flag": false,
+            "amount": 500.0023545,
+            "bse_scheme_code": "MOBIGD-GR",
+            "nav": 10.5195,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-03-05 10:15:06",
+            "units": 47.531,
+            "settlement_number": "1920228",
+            "remarks": "",
+            "name": "Motilal Oswal Nifty Bank Index Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 2000.0,
+            "folio_number": "91014125226",
+            "transaction_mode": "P",
+            "allotment_date": "2020-03-06",
+            "order_id": "119516109",
+            "order_type": "NRM",
+            "schema_id": 140516812.002066,
+            "sip_order_flag": false,
+            "amount": 1999.9955536,
+            "bse_scheme_code": "MOBIGD-GR",
+            "nav": 10.1552,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-03-06 13:08:23",
+            "units": 196.943,
+            "settlement_number": "1920229",
+            "remarks": "",
+            "name": "Motilal Oswal Nifty Bank Index Fund - Direct Plan"
+          }
+        ],
+        "net": 10766.489251199999,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "MOBIGD-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T3",
+        "div_reinvestment_flag": "Z",
+        "units": 834.146,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": 0.0868,
+        "buy_avg": 10.789478588520474,
+        "sparkline_data": [
+          {
+            "y": 12.1808,
+            "x": 1621362600000
+          },
+          {
+            "y": 12.0522,
+            "x": 1621449000000
+          },
+          {
+            "y": 12.5095,
+            "x": 1621535400000
+          },
+          {
+            "y": 12.6287,
+            "x": 1621794600000
+          },
+          {
+            "y": 12.5276,
+            "x": 1621881000000
+          },
+          {
+            "y": 12.5362,
+            "x": 1621967400000
+          },
+          {
+            "y": 12.6851,
+            "x": 1622053800000
+          },
+          {
+            "y": 12.7017,
+            "x": 1622140200000
+          },
+          {
+            "y": 12.8476,
+            "x": 1622399400000
+          },
+          {
+            "y": 12.7817,
+            "x": 1622485800000
+          },
+          {
+            "y": 12.7869,
+            "x": 1622572200000
+          },
+          {
+            "y": 12.9072,
+            "x": 1622658600000
+          },
+          {
+            "y": 12.7762,
+            "x": 1622745000000
+          },
+          {
+            "y": 12.8316,
+            "x": 1623004200000
+          },
+          {
+            "y": 12.7031,
+            "x": 1623090600000
+          },
+          {
+            "y": 12.5983,
+            "x": 1623177000000
+          },
+          {
+            "y": 12.7187,
+            "x": 1623263400000
+          },
+          {
+            "y": 12.6856,
+            "x": 1623349800000
+          },
+          {
+            "y": 12.6493,
+            "x": 1623609000000
+          },
+          {
+            "y": 12.7584,
+            "x": 1623695400000
+          },
+          {
+            "y": 12.6729,
+            "x": 1623781800000
+          },
+          {
+            "y": 12.5313,
+            "x": 1623868200000
+          },
+          {
+            "y": 12.5108,
+            "x": 1623954600000
+          },
+          {
+            "y": 12.619,
+            "x": 1624213800000
+          },
+          {
+            "y": 12.5741,
+            "x": 1624300200000
+          },
+          {
+            "y": 12.51,
+            "x": 1624386600000
+          },
+          {
+            "y": 12.6025,
+            "x": 1624473000000
+          },
+          {
+            "y": 12.8013,
+            "x": 1624559400000
+          },
+          {
+            "y": 12.7983,
+            "x": 1624818600000
+          },
+          {
+            "y": 12.6826,
+            "x": 1624905000000
+          },
+          {
+            "y": 12.5966,
+            "x": 1624991400000
+          },
+          {
+            "y": 12.5663,
+            "x": 1625077800000
+          },
+          {
+            "y": 12.6113,
+            "x": 1625164200000
+          },
+          {
+            "y": 12.7557,
+            "x": 1625423400000
+          },
+          {
+            "y": 12.8876,
+            "x": 1625509800000
+          },
+          {
+            "y": 12.9585,
+            "x": 1625596200000
+          },
+          {
+            "y": 12.7797,
+            "x": 1625682600000
+          },
+          {
+            "y": 12.7068,
+            "x": 1625769000000
+          },
+          {
+            "y": 12.7518,
+            "x": 1626028200000
+          },
+          {
+            "y": 12.9237,
+            "x": 1626114600000
+          },
+          {
+            "y": 12.9217,
+            "x": 1626201000000
+          },
+          {
+            "y": 13.0085,
+            "x": 1626287400000
+          },
+          {
+            "y": 12.9519,
+            "x": 1626373800000
+          },
+          {
+            "y": 12.708,
+            "x": 1626633000000
+          },
+          {
+            "y": 12.4698,
+            "x": 1626719400000
+          },
+          {
+            "y": 12.563,
+            "x": 1626892200000
+          },
+          {
+            "y": 12.6914,
+            "x": 1626978600000
+          },
+          {
+            "y": 12.6606,
+            "x": 1627237800000
+          },
+          {
+            "y": 12.6058,
+            "x": 1627324200000
+          },
+          {
+            "y": 12.5107,
+            "x": 1627410600000
+          },
+          {
+            "y": 12.5777,
+            "x": 1627497000000
+          },
+          {
+            "y": 12.5386,
+            "x": 1627583400000
+          },
+          {
+            "y": 12.5834,
+            "x": 1627842600000
+          },
+          {
+            "y": 12.7618,
+            "x": 1627929000000
+          },
+          {
+            "y": 13.0556,
+            "x": 1628015400000
+          },
+          {
+            "y": 12.9852,
+            "x": 1628101800000
+          },
+          {
+            "y": 12.9749,
+            "x": 1628188200000
+          },
+          {
+            "y": 13.0531,
+            "x": 1628447400000
+          },
+          {
+            "y": 13.0547,
+            "x": 1628533800000
+          },
+          {
+            "y": 12.9736,
+            "x": 1628620200000
+          },
+          {
+            "y": 13.0207,
+            "x": 1628706600000
+          },
+          {
+            "y": 13.1045,
+            "x": 1628793000000
+          },
+          {
+            "y": 13.0771,
+            "x": 1629052200000
+          },
+          {
+            "y": 12.9986,
+            "x": 1629138600000
+          },
+          {
+            "y": 12.8858,
+            "x": 1629225000000
+          },
+          {
+            "y": 12.6989,
+            "x": 1629397800000
+          },
+          {
+            "y": 12.7308,
+            "x": 1629657000000
+          },
+          {
+            "y": 12.9415,
+            "x": 1629743400000
+          },
+          {
+            "y": 12.896,
+            "x": 1629829800000
+          },
+          {
+            "y": 12.9072,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 9000.0004067,
+        "schema_id": 140516812.002066,
+        "isin": "INF247L01890",
+        "prev_nav": 12.896
+      },
+      {
+        "amc_code": "AXISMUTUALFUND_MF",
+        "folio_number": "91041583556",
+        "bse_scheme_code": "AFDG-GR",
+        "scheme_name": "Axis Focused 25 Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 30.467552956983912,
+        "amount": 1000.01202,
+        "nav": 49.14,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 1000.0,
+            "folio_number": "91041583556",
+            "transaction_mode": "P",
+            "allotment_date": "2020-03-06",
+            "order_id": "119500607",
+            "order_type": "NRM",
+            "schema_id": 14057658.002066,
+            "sip_order_flag": false,
+            "amount": 1000.01202,
+            "bse_scheme_code": "AFDG-GR",
+            "nav": 33.18,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-03-06 11:43:18",
+            "units": 30.139,
+            "settlement_number": "1920229",
+            "remarks": "",
+            "name": "Axis Focused 25 Fund - Direct Plan"
+          }
+        ],
+        "net": 1481.03046,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "AFDG-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T3",
+        "div_reinvestment_flag": "Z",
+        "units": 30.139,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": 0.2653,
+        "buy_avg": 33.18,
+        "sparkline_data": [
+          {
+            "y": 43.19,
+            "x": 1621362600000
+          },
+          {
+            "y": 42.91,
+            "x": 1621449000000
+          },
+          {
+            "y": 43.46,
+            "x": 1621535400000
+          },
+          {
+            "y": 43.53,
+            "x": 1621794600000
+          },
+          {
+            "y": 43.65,
+            "x": 1621881000000
+          },
+          {
+            "y": 44.1,
+            "x": 1621967400000
+          },
+          {
+            "y": 44.1,
+            "x": 1622053800000
+          },
+          {
+            "y": 44.07,
+            "x": 1622140200000
+          },
+          {
+            "y": 44.41,
+            "x": 1622399400000
+          },
+          {
+            "y": 44.48,
+            "x": 1622485800000
+          },
+          {
+            "y": 44.84,
+            "x": 1622572200000
+          },
+          {
+            "y": 45.12,
+            "x": 1622658600000
+          },
+          {
+            "y": 45.16,
+            "x": 1622745000000
+          },
+          {
+            "y": 45.17,
+            "x": 1623004200000
+          },
+          {
+            "y": 45.14,
+            "x": 1623090600000
+          },
+          {
+            "y": 44.86,
+            "x": 1623177000000
+          },
+          {
+            "y": 45.47,
+            "x": 1623263400000
+          },
+          {
+            "y": 45.49,
+            "x": 1623349800000
+          },
+          {
+            "y": 45.66,
+            "x": 1623609000000
+          },
+          {
+            "y": 45.87,
+            "x": 1623695400000
+          },
+          {
+            "y": 45.63,
+            "x": 1623781800000
+          },
+          {
+            "y": 45.52,
+            "x": 1623868200000
+          },
+          {
+            "y": 45.41,
+            "x": 1623954600000
+          },
+          {
+            "y": 45.52,
+            "x": 1624213800000
+          },
+          {
+            "y": 45.64,
+            "x": 1624300200000
+          },
+          {
+            "y": 45.31,
+            "x": 1624386600000
+          },
+          {
+            "y": 45.54,
+            "x": 1624473000000
+          },
+          {
+            "y": 45.69,
+            "x": 1624559400000
+          },
+          {
+            "y": 45.67,
+            "x": 1624818600000
+          },
+          {
+            "y": 45.57,
+            "x": 1624905000000
+          },
+          {
+            "y": 45.63,
+            "x": 1624991400000
+          },
+          {
+            "y": 45.77,
+            "x": 1625077800000
+          },
+          {
+            "y": 46.02,
+            "x": 1625164200000
+          },
+          {
+            "y": 46.4,
+            "x": 1625423400000
+          },
+          {
+            "y": 46.31,
+            "x": 1625509800000
+          },
+          {
+            "y": 46.48,
+            "x": 1625596200000
+          },
+          {
+            "y": 46.27,
+            "x": 1625682600000
+          },
+          {
+            "y": 46.3,
+            "x": 1625769000000
+          },
+          {
+            "y": 46.24,
+            "x": 1626028200000
+          },
+          {
+            "y": 46.26,
+            "x": 1626114600000
+          },
+          {
+            "y": 46.44,
+            "x": 1626201000000
+          },
+          {
+            "y": 46.44,
+            "x": 1626287400000
+          },
+          {
+            "y": 46.5,
+            "x": 1626373800000
+          },
+          {
+            "y": 46.19,
+            "x": 1626633000000
+          },
+          {
+            "y": 46.2,
+            "x": 1626719400000
+          },
+          {
+            "y": 46.72,
+            "x": 1626892200000
+          },
+          {
+            "y": 46.73,
+            "x": 1626978600000
+          },
+          {
+            "y": 46.76,
+            "x": 1627237800000
+          },
+          {
+            "y": 46.6,
+            "x": 1627324200000
+          },
+          {
+            "y": 46.59,
+            "x": 1627410600000
+          },
+          {
+            "y": 46.83,
+            "x": 1627497000000
+          },
+          {
+            "y": 46.66,
+            "x": 1627583400000
+          },
+          {
+            "y": 47.02,
+            "x": 1627842600000
+          },
+          {
+            "y": 47.57,
+            "x": 1627929000000
+          },
+          {
+            "y": 47.73,
+            "x": 1628015400000
+          },
+          {
+            "y": 47.74,
+            "x": 1628101800000
+          },
+          {
+            "y": 47.53,
+            "x": 1628188200000
+          },
+          {
+            "y": 47.5,
+            "x": 1628447400000
+          },
+          {
+            "y": 47.62,
+            "x": 1628533800000
+          },
+          {
+            "y": 47.51,
+            "x": 1628620200000
+          },
+          {
+            "y": 47.68,
+            "x": 1628706600000
+          },
+          {
+            "y": 47.94,
+            "x": 1628793000000
+          },
+          {
+            "y": 48.05,
+            "x": 1629052200000
+          },
+          {
+            "y": 48.21,
+            "x": 1629138600000
+          },
+          {
+            "y": 48.26,
+            "x": 1629225000000
+          },
+          {
+            "y": 48.05,
+            "x": 1629397800000
+          },
+          {
+            "y": 48.23,
+            "x": 1629657000000
+          },
+          {
+            "y": 48.86,
+            "x": 1629743400000
+          },
+          {
+            "y": 49.01,
+            "x": 1629829800000
+          },
+          {
+            "y": 49.14,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 1000.01202,
+        "schema_id": 14057658.002066,
+        "isin": "INF846K01CQ8",
+        "prev_nav": 49.01
+      },
+      {
+        "amc_code": "BirlaSunLifeMutualFund_MF",
+        "folio_number": "1037568692",
+        "bse_scheme_code": "BS02Z-DP",
+        "scheme_name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 9.416743113135407,
+        "amount": 2999.9956,
+        "nav": 302.81,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 3000.0,
+            "folio_number": "1037568692",
+            "transaction_mode": "P",
+            "allotment_date": "2018-06-26",
+            "order_id": "37832627",
+            "order_type": "NRM",
+            "schema_id": 14057755.002067,
+            "sip_order_flag": false,
+            "amount": 2999.9956,
+            "bse_scheme_code": "BS02Z-DP",
+            "nav": 227.6,
+            "plan": "IDCW",
+            "client_id": "MI2273",
+            "ordered_at": "2018-06-26 12:00:34",
+            "units": 13.181,
+            "settlement_number": "1819061",
+            "remarks": "",
+            "name": "Aditya Birla Sun Life Tax Relief 96 - Direct Plan"
+          }
+        ],
+        "net": 3991.33861,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "BS02Z-DP",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T3",
+        "div_reinvestment_flag": "N",
+        "units": 13.181,
+        "plan": "IDCW",
+        "client_id": "MI2273",
+        "change": 0.076,
+        "buy_avg": 227.6,
+        "sparkline_data": [
+          {
+            "y": 284.63,
+            "x": 1621362600000
+          },
+          {
+            "y": 283.45,
+            "x": 1621449000000
+          },
+          {
+            "y": 287.22,
+            "x": 1621535400000
+          },
+          {
+            "y": 287.87,
+            "x": 1621794600000
+          },
+          {
+            "y": 288.09,
+            "x": 1621881000000
+          },
+          {
+            "y": 290.43,
+            "x": 1621967400000
+          },
+          {
+            "y": 290.61,
+            "x": 1622053800000
+          },
+          {
+            "y": 292.13,
+            "x": 1622140200000
+          },
+          {
+            "y": 294.38,
+            "x": 1622399400000
+          },
+          {
+            "y": 293.15,
+            "x": 1622485800000
+          },
+          {
+            "y": 295.17,
+            "x": 1622572200000
+          },
+          {
+            "y": 297.18,
+            "x": 1622658600000
+          },
+          {
+            "y": 296.84,
+            "x": 1622745000000
+          },
+          {
+            "y": 298.92,
+            "x": 1623004200000
+          },
+          {
+            "y": 299.34,
+            "x": 1623090600000
+          },
+          {
+            "y": 297.25,
+            "x": 1623177000000
+          },
+          {
+            "y": 299.92,
+            "x": 1623263400000
+          },
+          {
+            "y": 300.17,
+            "x": 1623349800000
+          },
+          {
+            "y": 300.56,
+            "x": 1623609000000
+          },
+          {
+            "y": 301.56,
+            "x": 1623695400000
+          },
+          {
+            "y": 299.14,
+            "x": 1623781800000
+          },
+          {
+            "y": 298.0,
+            "x": 1623868200000
+          },
+          {
+            "y": 297.15,
+            "x": 1623954600000
+          },
+          {
+            "y": 298.5,
+            "x": 1624213800000
+          },
+          {
+            "y": 298.83,
+            "x": 1624300200000
+          },
+          {
+            "y": 297.75,
+            "x": 1624386600000
+          },
+          {
+            "y": 297.55,
+            "x": 1624473000000
+          },
+          {
+            "y": 298.87,
+            "x": 1624559400000
+          },
+          {
+            "y": 298.23,
+            "x": 1624818600000
+          },
+          {
+            "y": 297.38,
+            "x": 1624905000000
+          },
+          {
+            "y": 297.75,
+            "x": 1624991400000
+          },
+          {
+            "y": 297.3,
+            "x": 1625077800000
+          },
+          {
+            "y": 298.1,
+            "x": 1625164200000
+          },
+          {
+            "y": 299.41,
+            "x": 1625423400000
+          },
+          {
+            "y": 299.84,
+            "x": 1625509800000
+          },
+          {
+            "y": 300.06,
+            "x": 1625596200000
+          },
+          {
+            "y": 298.07,
+            "x": 1625682600000
+          },
+          {
+            "y": 297.24,
+            "x": 1625769000000
+          },
+          {
+            "y": 298.39,
+            "x": 1626028200000
+          },
+          {
+            "y": 301.23,
+            "x": 1626114600000
+          },
+          {
+            "y": 303.2,
+            "x": 1626201000000
+          },
+          {
+            "y": 302.97,
+            "x": 1626287400000
+          },
+          {
+            "y": 304.64,
+            "x": 1626373800000
+          },
+          {
+            "y": 303.63,
+            "x": 1626633000000
+          },
+          {
+            "y": 300.56,
+            "x": 1626719400000
+          },
+          {
+            "y": 303.77,
+            "x": 1626892200000
+          },
+          {
+            "y": 303.37,
+            "x": 1626978600000
+          },
+          {
+            "y": 303.84,
+            "x": 1627237800000
+          },
+          {
+            "y": 302.93,
+            "x": 1627324200000
+          },
+          {
+            "y": 301.74,
+            "x": 1627410600000
+          },
+          {
+            "y": 302.07,
+            "x": 1627497000000
+          },
+          {
+            "y": 302.73,
+            "x": 1627583400000
+          },
+          {
+            "y": 304.71,
+            "x": 1627842600000
+          },
+          {
+            "y": 308.2,
+            "x": 1627929000000
+          },
+          {
+            "y": 309.58,
+            "x": 1628015400000
+          },
+          {
+            "y": 308.0,
+            "x": 1628101800000
+          },
+          {
+            "y": 306.16,
+            "x": 1628188200000
+          },
+          {
+            "y": 305.3,
+            "x": 1628447400000
+          },
+          {
+            "y": 304.9,
+            "x": 1628533800000
+          },
+          {
+            "y": 302.41,
+            "x": 1628620200000
+          },
+          {
+            "y": 304.68,
+            "x": 1628706600000
+          },
+          {
+            "y": 306.83,
+            "x": 1628793000000
+          },
+          {
+            "y": 306.51,
+            "x": 1629052200000
+          },
+          {
+            "y": 306.02,
+            "x": 1629138600000
+          },
+          {
+            "y": 306.46,
+            "x": 1629225000000
+          },
+          {
+            "y": 302.79,
+            "x": 1629397800000
+          },
+          {
+            "y": 300.45,
+            "x": 1629657000000
+          },
+          {
+            "y": 303.28,
+            "x": 1629743400000
+          },
+          {
+            "y": 302.58,
+            "x": 1629829800000
+          },
+          {
+            "y": 302.81,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 2999.9956,
+        "schema_id": 14057755.002067,
+        "isin": "INF209K01P23",
+        "prev_nav": 302.58
+      },
+      {
+        "amc_code": "MIRAEASSET",
+        "folio_number": "78817647074",
+        "bse_scheme_code": "MAFICD1-GR",
+        "scheme_name": "Mirae Asset Great Consumer Fund - Direct Plan",
+        "redemption_lock": false,
+        "xirr": 32.266497611999576,
+        "amount": 9999.759304,
+        "nav": 57.618,
+        "nav_date": "2021-08-26",
+        "order_history": [
+          {
+            "status": "Allotted",
+            "transaction_amount": 5000.0,
+            "folio_number": "78817647074",
+            "transaction_mode": "P",
+            "allotment_date": "2020-03-06",
+            "order_id": "119515321",
+            "order_type": "NRM",
+            "schema_id": 14057693.002066,
+            "sip_order_flag": false,
+            "amount": 5000.001142,
+            "bse_scheme_code": "MAFICD1-GR",
+            "nav": 39.146,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2020-03-06 11:56:21",
+            "units": 127.727,
+            "settlement_number": "1920229",
+            "remarks": "",
+            "name": "Mirae Asset Great Consumer Fund - Direct Plan"
+          },
+          {
+            "status": "Allotted",
+            "transaction_amount": 4999.75,
+            "folio_number": "78817647074",
+            "transaction_mode": "P",
+            "allotment_date": "2021-03-19",
+            "order_id": "216127111",
+            "order_type": "NRM",
+            "schema_id": 14057693.002066,
+            "sip_order_flag": false,
+            "amount": 4999.758162,
+            "bse_scheme_code": "MAFICD1-GR",
+            "nav": 49.217,
+            "plan": "Growth",
+            "client_id": "MI2273",
+            "ordered_at": "2021-03-18 19:47:51",
+            "units": 101.586,
+            "settlement_number": "2021241",
+            "remarks": "",
+            "name": "Mirae Asset Great Consumer Fund - Direct Plan"
+          }
+        ],
+        "net": 13212.556434,
+        "min_redemp_qty": 0.001,
+        "bse_scheme_code_slug": "MAFICD1-GR",
+        "redemp_multiplier": 0.001,
+        "settlement_type": "T3",
+        "div_reinvestment_flag": "Z",
+        "units": 229.313,
+        "plan": "Growth",
+        "client_id": "MI2273",
+        "change": 0.3361,
+        "buy_avg": 43.60746797608509,
+        "sparkline_data": [
+          {
+            "y": 52.107,
+            "x": 1621362600000
+          },
+          {
+            "y": 51.68,
+            "x": 1621449000000
+          },
+          {
+            "y": 52.203,
+            "x": 1621535400000
+          },
+          {
+            "y": 52.479,
+            "x": 1621794600000
+          },
+          {
+            "y": 52.705,
+            "x": 1621881000000
+          },
+          {
+            "y": 52.912,
+            "x": 1621967400000
+          },
+          {
+            "y": 52.902,
+            "x": 1622053800000
+          },
+          {
+            "y": 52.857,
+            "x": 1622140200000
+          },
+          {
+            "y": 53.139,
+            "x": 1622399400000
+          },
+          {
+            "y": 53.086,
+            "x": 1622485800000
+          },
+          {
+            "y": 53.194,
+            "x": 1622572200000
+          },
+          {
+            "y": 53.645,
+            "x": 1622658600000
+          },
+          {
+            "y": 53.557,
+            "x": 1622745000000
+          },
+          {
+            "y": 54.043,
+            "x": 1623004200000
+          },
+          {
+            "y": 54.321,
+            "x": 1623090600000
+          },
+          {
+            "y": 53.938,
+            "x": 1623177000000
+          },
+          {
+            "y": 54.551,
+            "x": 1623263400000
+          },
+          {
+            "y": 54.35,
+            "x": 1623349800000
+          },
+          {
+            "y": 54.231,
+            "x": 1623609000000
+          },
+          {
+            "y": 54.597,
+            "x": 1623695400000
+          },
+          {
+            "y": 54.482,
+            "x": 1623781800000
+          },
+          {
+            "y": 54.282,
+            "x": 1623868200000
+          },
+          {
+            "y": 54.361,
+            "x": 1623954600000
+          },
+          {
+            "y": 54.431,
+            "x": 1624213800000
+          },
+          {
+            "y": 54.554,
+            "x": 1624300200000
+          },
+          {
+            "y": 54.561,
+            "x": 1624386600000
+          },
+          {
+            "y": 54.935,
+            "x": 1624473000000
+          },
+          {
+            "y": 54.846,
+            "x": 1624559400000
+          },
+          {
+            "y": 54.971,
+            "x": 1624818600000
+          },
+          {
+            "y": 54.989,
+            "x": 1624905000000
+          },
+          {
+            "y": 54.977,
+            "x": 1624991400000
+          },
+          {
+            "y": 55.252,
+            "x": 1625077800000
+          },
+          {
+            "y": 55.275,
+            "x": 1625164200000
+          },
+          {
+            "y": 55.632,
+            "x": 1625423400000
+          },
+          {
+            "y": 55.504,
+            "x": 1625509800000
+          },
+          {
+            "y": 55.663,
+            "x": 1625596200000
+          },
+          {
+            "y": 55.413,
+            "x": 1625682600000
+          },
+          {
+            "y": 55.48,
+            "x": 1625769000000
+          },
+          {
+            "y": 55.606,
+            "x": 1626028200000
+          },
+          {
+            "y": 55.939,
+            "x": 1626114600000
+          },
+          {
+            "y": 55.96,
+            "x": 1626201000000
+          },
+          {
+            "y": 56.042,
+            "x": 1626287400000
+          },
+          {
+            "y": 56.25,
+            "x": 1626373800000
+          },
+          {
+            "y": 55.896,
+            "x": 1626633000000
+          },
+          {
+            "y": 55.569,
+            "x": 1626719400000
+          },
+          {
+            "y": 55.897,
+            "x": 1626892200000
+          },
+          {
+            "y": 56.327,
+            "x": 1626978600000
+          },
+          {
+            "y": 56.358,
+            "x": 1627237800000
+          },
+          {
+            "y": 56.041,
+            "x": 1627324200000
+          },
+          {
+            "y": 56.02,
+            "x": 1627410600000
+          },
+          {
+            "y": 55.944,
+            "x": 1627497000000
+          },
+          {
+            "y": 56.135,
+            "x": 1627583400000
+          },
+          {
+            "y": 56.758,
+            "x": 1627842600000
+          },
+          {
+            "y": 57.543,
+            "x": 1627929000000
+          },
+          {
+            "y": 57.056,
+            "x": 1628015400000
+          },
+          {
+            "y": 57.173,
+            "x": 1628101800000
+          },
+          {
+            "y": 57.074,
+            "x": 1628188200000
+          },
+          {
+            "y": 56.885,
+            "x": 1628447400000
+          },
+          {
+            "y": 56.457,
+            "x": 1628533800000
+          },
+          {
+            "y": 56.523,
+            "x": 1628620200000
+          },
+          {
+            "y": 56.934,
+            "x": 1628706600000
+          },
+          {
+            "y": 57.149,
+            "x": 1628793000000
+          },
+          {
+            "y": 57.172,
+            "x": 1629052200000
+          },
+          {
+            "y": 57.668,
+            "x": 1629138600000
+          },
+          {
+            "y": 57.928,
+            "x": 1629225000000
+          },
+          {
+            "y": 57.79,
+            "x": 1629397800000
+          },
+          {
+            "y": 57.437,
+            "x": 1629657000000
+          },
+          {
+            "y": 57.459,
+            "x": 1629743400000
+          },
+          {
+            "y": 57.425,
+            "x": 1629829800000
+          },
+          {
+            "y": 57.618,
+            "x": 1629916200000
+          }
+        ],
+        "total_invested": 9999.759304,
+        "schema_id": 14057693.002066,
+        "isin": "INF769K01BL5",
+        "prev_nav": 57.425
+      }
+    ]
+  }
+}
