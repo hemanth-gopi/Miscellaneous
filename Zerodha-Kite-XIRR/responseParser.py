@@ -1,7 +1,6 @@
 import requests
 import datetime
 from utils import getInstrumentsIdsFromEquities, xirr, getPortfolioValue
-from datetime import date
 
 ZERODHA_CONSOLE_API_BASE="https://console.zerodha.com/api/reports/holdings"
 
@@ -12,8 +11,8 @@ TODAY_DATE = datetime.date.today()
 GET_PORTOLIO_URI = ZERODHA_CONSOLE_API_BASE + PORTFOLIO + "?date=" + str(TODAY_DATE)
 
 HEADERS = dict({
-  "cookie": "public_token=gFDkmo6NMtKFp528jsSyWnFbxSOwIB0K; session=dXPDBWViCa6QOguHAzuoAZWtWRpS7O4J; _ga=GA1.2.1850578708.1632501116; _gid=GA1.2.1352000538.1632501116; _gat_gtag_UA_29026012_18=1",
-  "x-csrftoken":"gFDkmo6NMtKFp528jsSyWnFbxSOwIB0K"
+  "cookie": "",
+  "x-csrftoken":""
 })
 
 def calculateXIRR():

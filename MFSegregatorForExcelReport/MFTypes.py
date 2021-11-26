@@ -15,5 +15,6 @@ mf_types = {
   "SBI Magnum Constant Maturity Fund - Direct Plan":DEBT,
   "Motilal Oswal Nifty Bank Index Fund - Direct Plan":EQUITY,
   "Axis Focused 25 Fund - Direct Plan":EQUITY,
-  "Mirae Asset Great Consumer Fund - Direct Plan":EQUITY
+  "Mirae Asset Great Consumer Fund - Direct Plan":EQUITY,
+  "HDFC Liquid Fund - Direct Plan": DEBT
 }
