@@ -3,18 +3,20 @@ DEBT="DEBT"
 ELSS="ELSS"
 
 mf_types = {
-  "Tata Digital India Fund - Direct Plan": EQUITY,
-  "Axis Long Term Equity Fund - Direct Plan":ELSS,
+  "TATA DIGITAL INDIA FUND - DIRECT PLAN": EQUITY,
+  "AXIS LONG TERM EQUITY FUND - DIRECT PLAN":ELSS,
   "Aditya Birla Sun Life Tax Relief 96 - Direct Plan":ELSS,
   "IDFC Tax Advantage (ELSS) Fund - Direct Plan":ELSS,
-  "L&T Tax Advantage Fund - Direct Plan":ELSS,
+  "Lu0026T Tax Advantage Fund - Direct Plan":ELSS,
   "Nippon India Small Cap Fund - Direct Plan":EQUITY,
-  "Kotak Bond Short Term Fund - Direct Plan":DEBT,
-  "Axis Liquid Fund - Direct Plan":DEBT,
-  "Franklin India Liquid Fund - Direct Plan":DEBT,
-  "SBI Magnum Constant Maturity Fund - Direct Plan":DEBT,
-  "Motilal Oswal Nifty Bank Index Fund - Direct Plan":EQUITY,
-  "Axis Focused 25 Fund - Direct Plan":EQUITY,
-  "Mirae Asset Great Consumer Fund - Direct Plan":EQUITY,
-  "HDFC Liquid Fund - Direct Plan": DEBT
+  "KOTAK BOND SHORT TERM FUND - DIRECT PLAN":DEBT,
+  "AXIS LIQUID FUND - DIRECT PLAN":DEBT,
+  "FRANKLIN INDIA LIQUID FUND - DIRECT PLAN":DEBT,
+  "SBI MAGNUM CONSTANT MATURITY FUND - DIRECT PLAN":DEBT,
+  "MOTILAL OSWAL NIFTY BANK INDEX FUND - DIRECT PLAN":EQUITY,
+  "AXIS FOCUSED 25 FUND - DIRECT PLAN":EQUITY,
+  "MIRAE ASSET GREAT CONSUMER FUND - DIRECT PLAN":EQUITY,
+  "HDFC LIQUID FUND - DIRECT PLAN": DEBT,
+  "Reliance Small Cap Fund - Direct Plan": EQUITY,
+  "PARAG PARIKH FLEXI CAP FUND - DIRECT PLAN": EQUITY
 }

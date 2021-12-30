@@ -10,7 +10,7 @@ fundTypes={
   DEBT:[]
 }
 
-PORTFOLIO_URI="https://coin.zerodha.com/api/dashboard_details"
+PORTFOLIO_URI="https://coin.zerodha.com/api/mf/holdings"
 
 HEADERS = dict({
   "cookie": "",
@@ -22,27 +22,28 @@ HEADERS = dict({
 
 def parsePortfolio(response):
   try:
-    for fund in response['data']['portfolio']:
-      print(fund['scheme_name'])
-      print(fund['net'])
+    for fund in response['data']:
+      print(fund['fund'])
+      print(fund['quantity'])
       temp_fund={
-        'scheme_name':fund['scheme_name'],
-        'net': fund['net']
+        'scheme_name':fund['fund'],
+        'net': fund['last_price'] * fund['quantity']
       }
 
+      print(temp_fund)
 
-      if mf_types[fund['scheme_name']]==EQUITY:
+      if mf_types[temp_fund['scheme_name']]==EQUITY:
         fundTypes[EQUITY].append(temp_fund)
-      elif mf_types[fund['scheme_name']]==ELSS:
+      elif mf_types[temp_fund['scheme_name']]==ELSS:
         fundTypes[ELSS].append(temp_fund)
-      elif mf_types[fund['scheme_name']]==DEBT:
+      elif mf_types[temp_fund['scheme_name']]==DEBT:
         fundTypes[DEBT].append(temp_fund)
     
 
     print(":: Funds Totals ::\n")
     for fundType in fundTypes.keys():
       total=0
-      print(":: " + fundType + " ::\n")
+      print(" ***************** " + fundType + " ***********************\n")
       for fund in fundTypes[fundType]:
         print(fund['scheme_name'] + " - " + str(fund["net"]))
         print()
@@ -63,13 +64,19 @@ def parsePortfolio(response):
 def getMfBreakdown():
   try:
     print("::::::::::  Getting Portfolio :::::::::::::")
-    print("::::::::::  Enter the session_token :::::::")
-    session_token=input().strip()
-    portfolio_uri_w_session_token=f'{PORTFOLIO_URI}?session_token={session_token}'
-    print(f'Portfolio URI ========> {portfolio_uri_w_session_token}')
-    portfolio = requests.get(portfolio_uri_w_session_token, headers=HEADERS)
+    
+    print("::::::::::  Enter the cookie :::::::")
+    cookie=input().strip()
+    HEADERS["cookie"]=cookie 
+    
+    print("::::::::::  Enter the csrf token :::::::")
+    csrf_token=input().strip()
+    HEADERS["x-csrftoken"]=csrf_token
+
+    portfolio = requests.get(PORTFOLIO_URI, headers=HEADERS)
     portfolio_json = portfolio.json()
-    print(f'Session token validation :: {portfolio_json["status"]}')
+    print(portfolio_json)
+    print(f'API Response validation :: {portfolio_json["status"]}')
     parsePortfolio(portfolio_json)
 
   except Exception as e:
