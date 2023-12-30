@@ -38,6 +38,8 @@ def parsePortfolio(response):
         fundTypes[ELSS].append(temp_fund)
       elif mf_types[temp_fund['scheme_name']]==DEBT:
         fundTypes[DEBT].append(temp_fund)
+
+      print(f'Done handling {temp_fund['scheme_name']}')
     
 
     print(":: Funds Totals ::\n")
