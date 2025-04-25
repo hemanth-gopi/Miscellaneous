@@ -39,8 +39,8 @@ def parsePortfolio(response):
       elif mf_types[temp_fund['scheme_name']]==DEBT:
         fundTypes[DEBT].append(temp_fund)
 
-      print(f'Done handling {temp_fund['scheme_name']}')
-    
+      print(f'Done handling {temp_fund["scheme_name"]}')
+
 
     print(":: Funds Totals ::\n")
     for fundType in fundTypes.keys():

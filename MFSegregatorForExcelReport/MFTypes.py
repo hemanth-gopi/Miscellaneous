@@ -1,8 +1,16 @@
 EQUITY="EQUITY"
 DEBT="DEBT"
 ELSS="ELSS"
+GOLD="GOLD"
 
 mf_types = {
+  "Tata Balanced Advantage Fund - Direct Plan": EQUITY,
+  "Quant Small Cap Fund - Direct Plan": EQUITY,
+  "Mirae Asset Great Consumer Fund - Direct Plan": EQUITY,
+  "ICICI Prudential Short Term Fund - Direct Plan": DEBT,
+  "Kotak Bond Short Term Fund - Direct Plan": DEBT,
+  "Zerodha Nifty LargeMidcap 250 Index Fund - Direct Plan": EQUITY,
+  "Motilal Oswal Nifty Bank Index Fund - Direct Plan": EQUITY,
   "TATA DIGITAL INDIA FUND - DIRECT PLAN": EQUITY,
   "AXIS LONG TERM EQUITY FUND - DIRECT PLAN":ELSS,
   "Aditya Birla Sun Life Tax Relief 96 - Direct Plan":ELSS,
@@ -14,7 +22,7 @@ mf_types = {
   "FRANKLIN INDIA LIQUID FUND - DIRECT PLAN":DEBT,
   "SBI MAGNUM CONSTANT MATURITY FUND - DIRECT PLAN":DEBT,
   "MOTILAL OSWAL NIFTY BANK INDEX FUND - DIRECT PLAN":EQUITY,
-  "AXIS FOCUSED 25 FUND - DIRECT PLAN":EQUITY,
+  "AXIS FOCUSED FUND - DIRECT PLAN":EQUITY,
   "MIRAE ASSET GREAT CONSUMER FUND - DIRECT PLAN":EQUITY,
   "HDFC LIQUID FUND - DIRECT PLAN": DEBT,
   "Reliance Small Cap Fund - Direct Plan": EQUITY,
@@ -22,5 +30,20 @@ mf_types = {
   "TATA BALANCED ADVANTAGE FUND - DIRECT PLAN": EQUITY,
   "HSBC ELSS FUND - DIRECT PLAN": ELSS,
   "AXIS ELSS TAX SAVER FUND - DIRECT PLAN": ELSS,
-  "HSBC ELSS TAX SAVER FUND - DIRECT PLAN": ELSS
+  "HSBC ELSS TAX SAVER FUND - DIRECT PLAN": ELSS,
+  "QUANT SMALL CAP FUND - DIRECT PLAN": EQUITY,
+  "HDFC INDEX NIFTY 50 PLAN - DIRECT PLAN": EQUITY,
+  "HDFC NIFTY 50 INDEX FUND - DIRECT PLAN": EQUITY,
+  "UTI NIFTY 50 INDEX FUND - DIRECT PLAN": EQUITY,
+  "QUANT SMALL CAP FUND - DIRECT PLAN": EQUITY,
+  "ZERODHA NIFTY LARGEMIDCAP 250 INDEX FUND - DIRECT PLAN": EQUITY,
+  "ICICI PRUDENTIAL SHORT TERM FUND - DIRECT PLAN": DEBT,
+  "Parag Parikh Flexi Cap Fund - Direct Plan": EQUITY,
+  "Nippon India Small Cap Fund - Direct Plan": EQUITY,
+  "Tata Digital India Fund - Direct Plan": EQUITY,
+  "HDFC Nifty 50 Index Fund - Direct Plan": EQUITY,
+  "UTI Nifty 50 Index Fund - Direct Plan": EQUITY,
+  "SBI Gold Fund - Direct Plan": GOLD,
+  "Nippon India Gold Savings Fund - Direct Plan": GOLD
 }
+
