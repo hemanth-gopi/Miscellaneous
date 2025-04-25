@@ -7,7 +7,8 @@ from MFTypes import mf_types,EQUITY,ELSS,DEBT
 fundTypes={
   EQUITY:[],
   ELSS:[],
-  DEBT:[]
+  DEBT:[],
+  GOLD:[]
 }
 
 PORTFOLIO_URI="https://coin.zerodha.com/api/mf/holdings"
@@ -38,6 +39,8 @@ def parsePortfolio(response):
         fundTypes[ELSS].append(temp_fund)
       elif mf_types[temp_fund['scheme_name']]==DEBT:
         fundTypes[DEBT].append(temp_fund)
+     elif mf_types[temp_fund['schema_name']]==GOLD:
+        fundTypes[GOLD].append(temp_fund)
 
       print(f'Done handling {temp_fund["scheme_name"]}')
 
